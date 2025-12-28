@@ -1,0 +1,862 @@
+ID,Match #,Batting_Runs,Batting_Mins,Balls Faced,4s,6s,SR,Batting_Pos,Batting_Dismissal,Batting_Inns,Overs,Mdns,Bowling_Runs,Wkts,Bowling_Econ,Bowling_Pos,Bowling_Inns,Catch Taken,Inns,Opposition,Ground,Start Date,
+1,Test # 1127,15,28,24,2,0,62.5,6,bowled,2,1,0,10,0,10,7,1,0,1,Test v Pakistan,Karachi,15-Nov-89,15
+2,Test # 1127,-1,-,-,-,-,-,-,-,4,4,0,15,0,3.75,6,3,0,3,Test v Pakistan,Karachi,15-Nov-89,-1
+3,Test # 1128,59,254,172,4,0,34.3,6,lbw,1,-1,-,-,-,-,-,2,1,2,Test v Pakistan,Faisalabad,23-Nov-89,59
+4,Test # 1128,8,24,16,1,0,50,6,run out,3,-1,-,-,-,-,-,4,0,4,Test v Pakistan,Faisalabad,23-Nov-89,8
+5,Test # 1130,41,124,90,5,0,45.55,7,bowled,1,-1,-,-,-,-,-,2,0,2,Test v Pakistan,Lahore,01-Dec-89,41
+6,Test # 1130,-1,-,-,-,-,-,-,-,3,-1,-,-,-,-,-,,0,4,Test v Pakistan,Lahore,01-Dec-89,-1
+7,Test # 1132,35,74,51,5,0,68.62,6,lbw,1,-1,-,-,-,-,-,2,0,2,Test v Pakistan,Sialkot,09-Dec-89,35
+8,Test # 1132,57,193,134,6,0,42.53,6,caught,3,-1,-,-,-,-,-,4,0,4,Test v Pakistan,Sialkot,09-Dec-89,57
+9,ODI # 593,0,-,2,0,0,0,5,caught,2,-1,-,-,-,-,-,1,0,1,ODI v Pakistan,Gujranwala,18-Dec-89,0
+10,Test # 1136,0,1,1,0,0,0,6,caught,2,-1,-,-,-,-,-,1,0,1,Test v New Zealand,Christchurch,02-Feb-90,0
+11,Test # 1136,24,50,44,3,0,54.54,6,caught,3,-1,-,-,-,-,-,4,0,4,Test v New Zealand,Christchurch,02-Feb-90,24
+12,Test # 1138,88,324,266,5,0,33.08,6,caught,1,-1,-,-,-,-,-,2,0,2,Test v New Zealand,Napier,09-Feb-90,88
+13,Test # 1138,-1,-,-,-,-,-,-,-,3,-1,-,-,-,-,-,4,0,4,Test v New Zealand,Napier,09-Feb-90,-1
+14,Test # 1139,5,15,13,1,0,38.46,6,caught,2,-1,-,-,-,-,-,1,1,1,Test v New Zealand,Auckland,22-Feb-90,5
+15,Test # 1139,-1,-,-,-,-,-,-,-,4,-1,-,-,-,-,-,3,0,3,Test v New Zealand,Auckland,22-Feb-90,-1
+16,ODI # 612,0,2,2,0,0,0,5,caught,2,-1,-,-,-,-,-,1,0,1,ODI v New Zealand,Dunedin,01-Mar-90,0
+17,ODI # 616,36,51,39,5,0,92.3,6,caught,1,-1,-,-,-,-,-,2,0,2,ODI v New Zealand,Wellington,06-Mar-90,36
+18,ODI # 623,10,-,12,0,0,83.33,5,run out,1,-1,-,-,-,-,-,2,1,2,ODI v Sri Lanka,Sharjah,25-Apr-90,10
+19,ODI # 625,20,-,25,1,0,80,7,caught,2,-1,-,-,-,-,-,1,0,1,ODI v Pakistan,Sharjah,27-Apr-90,20
+20,ODI # 634,19,38,35,1,1,54.28,4,bowled,2,-1,-,-,-,-,-,1,0,1,ODI v England,Leeds,18-Jul-90,19
+21,ODI # 635,31,31,26,3,0,119.23,6,bowled,2,1,0,10,0,10,6,1,0,1,ODI v England,Nottingham,20-Jul-90,31
+22,Test # 1148,10,30,19,1,0,52.63,6,bowled,2,-1,-,-,-,-,-,1,0,1,Test v England,Lord's,26-Jul-90,10
+23,Test # 1148,27,93,65,4,0,41.53,6,caught,4,-1,-,-,-,-,-,3,1,3,Test v England,Lord's,26-Jul-90,27
+24,Test # 1149,68,216,136,8,0,50,6,caught,2,-1,-,-,-,-,-,1,2,1,Test v England,Manchester,09-Aug-90,68
+25,Test # 1149,119,225,189,17,0,62.96,6,not out,4,-1,-,-,-,-,-,3,0,3,Test v England,Manchester,09-Aug-90,119
+26,Test # 1150,21,39,30,3,0,70,7,caught,1,-1,-,-,-,-,-,2,0,2,Test v England,The Oval,23-Aug-90,21
+27,Test # 1150,-1,-,-,-,-,-,-,-,3,-1,-,-,-,-,-,3,0,3,Test v England,The Oval,23-Aug-90,-1
+28,Test # 1156,11,92,-,-,0,-,6,lbw,1,-1,-,-,-,-,-,2,0,2,Test v Sri Lanka,Chandigarh,23-Nov-90,11
+29,Test # 1156,-1,-,-,-,-,-,-,-,3,-1,-,-,-,-,-,3,0,3,Test v Sri Lanka,Chandigarh,23-Nov-90,-1
+30,ODI # 644,36,-,22,3,2,163.63,5,bowled,1,-1,-,-,-,-,-,2,0,2,ODI v Sri Lanka,Nagpur,01-Dec-90,36
+31,ODI # 646,53,-,41,7,1,129.26,5,bowled,2,9,0,39,2,4.33,3,1,2,1,ODI v Sri Lanka,Pune,05-Dec-90,53
+32,ODI # 648,30,-,29,1,2,103.44,5,caught,1,-1,-,-,-,-,-,2,0,2,ODI v Sri Lanka,Margao,08-Dec-90,30
+33,ODI # 657,-1,-,-,-,-,-,-,-,2,2,0,15,0,7.5,6,1,0,1,ODI v Bangladesh,Chandigarh,25-Dec-90,-1
+34,ODI # 658,4,-,11,0,0,36.36,5,lbw,2,-1,-,-,-,-,-,1,0,1,ODI v Sri Lanka,Cuttack,28-Dec-90,4
+35,ODI # 661,53,-,70,2,0,75.71,4,lbw,2,-1,-,-,-,-,-,1,0,1,ODI v Sri Lanka,Eden Gardens,04-Jan-91,53
+36,ODI # 680,52,-,40,5,0,130,5,not out,1,-1,-,-,-,-,-,2,0,2,ODI v Pakistan,Sharjah,18-Oct-91,52
+37,ODI # 681,22,-,27,3,0,81.48,5,run out,1,-1,-,-,-,-,-,2,0,2,ODI v West Indies,Sharjah,19-Oct-91,22
+38,ODI # 683,11,-,27,1,0,40.74,5,not out,2,10,1,34,4,3.4,3,1,0,1,ODI v West Indies,Sharjah,22-Oct-91,11
+39,ODI # 684,49,-,38,3,2,128.94,5,caught,2,6,0,20,0,3.33,3,1,1,1,ODI v Pakistan,Sharjah,23-Oct-91,49
+40,ODI # 685,0,-,1,0,0,0,5,lbw,2,5,0,24,0,4.8,3,1,0,1,ODI v Pakistan,Sharjah,25-Oct-91,0
+41,ODI # 686,62,-,73,8,1,84.93,4,caught,2,5,0,27,1,5.4,6,1,0,1,ODI v South Africa,Eden Gardens,10-Nov-91,62
+42,ODI # 687,4,-,8,0,0,50,4,caught,1,7,0,31,0,4.42,3,2,0,2,ODI v South Africa,Gwalior,12-Nov-91,4
+43,ODI # 688,1,-,3,0,0,33.33,4,caught,1,6,0,38,0,6.33,4,2,0,2,ODI v South Africa,New Delhi,14-Nov-91,1
+44,Test # 1177,16,47,42,3,0,38.09,6,bowled,1,1,0,8,0,8,5,2,0,2,Test v Australia,Brisbane,29-Nov-91,16
+45,Test # 1177,7,36,25,1,0,28,6,caught,3,1,0,5,0,5,5,4,0,4,Test v Australia,Brisbane,29-Nov-91,7
+46,ODI # 692,1,14,9,0,0,11.11,4,caught,1,1,0,5,1,5,5,2,0,2,ODI v West Indies,W.A.C.A,06-Dec-91,1
+47,ODI # 693,36,79,65,3,0,55.38,4,caught,1,4,0,8,0,2,6,2,1,2,ODI v Australia,W.A.C.A,08-Dec-91,36
+48,ODI # 694,57,111,107,3,0,53.27,4,caught,1,-1,-,-,-,-,-,2,1,2,ODI v Australia,Hobart,10-Dec-91,57
+49,ODI # 696,48,62,57,2,0,84.21,4,caught,1,2,0,10,0,5,4,2,0,2,ODI v West Indies,Adelaide,14-Dec-91,48
+50,ODI # 697,21,38,35,3,0,60,4,caught,1,1.5,0,3,0,1.63,7,2,1,2,ODI v Australia,Adelaide,15-Dec-91,21
+51,Test # 1180,15,33,23,0,0,65.21,7,caught,1,4,1,16,0,4,5,2,2,2,Test v Australia,Melbourne,26-Dec-91,15
+52,Test # 1180,40,122,107,5,0,37.38,7,caught,3,-1,-,-,-,-,-,4,0,4,Test v Australia,Melbourne,26-Dec-91,40
+53,Test # 1181,148,298,213,14,0,69.48,6,not out,2,-1,-,-,-,-,-,1,1,1,Test v Australia,Sydney,02-Jan-92,148
+54,Test # 1181,-1,-,-,-,-,-,-,-,4,1,0,2,1,2,5,3,0,3,Test v Australia,Sydney,02-Jan-92,-1
+55,ODI # 702,77,157,127,5,0,60.62,4,caught,1,7,0,27,0,3.85,4,2,0,2,ODI v West Indies,Brisbane,11-Jan-92,77
+56,ODI # 705,31,64,44,1,0,70.45,5,run out,1,2,0,14,0,7,3,2,0,2,ODI v Australia,Sydney,14-Jan-92,31
+57,ODI # 707,57,118,88,2,0,64.77,4,not out,2,10,1,38,0,3.8,5,1,0,1,ODI v West Indies,Melbourne,16-Jan-92,57
+58,ODI # 709,4,12,10,0,0,40,4,caught,2,6,0,29,1,4.83,4,1,0,1,ODI v Australia,Melbourne,18-Jan-92,4
+59,ODI # 711,69,116,100,3,0,69,4,caught,2,4,0,18,0,4.5,4,1,1,1,ODI v Australia,Sydney,20-Jan-92,69
+60,Test # 1184,6,20,8,1,0,75,6,lbw,2,4,2,10,2,2.5,4,1,0,1,Test v Australia,Adelaide,25-Jan-92,6
+61,Test # 1184,17,36,29,2,0,58.62,4,lbw,4,20,5,44,0,2.2,6,3,1,3,Test v Australia,Adelaide,25-Jan-92,17
+62,Test # 1186,114,228,161,16,0,70.8,4,caught,2,5,2,9,0,1.8,4,1,0,1,Test v Australia,W.A.C.A,01-Feb-92,114
+63,Test # 1186,5,12,9,1,0,55.55,4,caught,4,-1,-,-,-,-,-,3,1,3,Test v Australia,W.A.C.A,01-Feb-92,5
+64,ODI # 715,35,51,44,5,0,79.54,4,caught,2,10,0,37,0,3.7,5,1,1,1,ODI v England,W.A.C.A,22-Feb-92,35
+65,ODI # 722,-1,-,-,-,-,-,-,-,1,TDNB,-,-,-,-,-,-,-,-,ODI v Sri Lanka,Mackay,28-Feb-92,-1
+66,ODI # 725,11,19,19,1,0,57.89,4,caught,2,5,0,29,0,5.8,4,1,0,1,ODI v Australia,Brisbane,01-Mar-92,11
+67,ODI # 729,54,91,62,3,0,87.09,5,not out,1,10,0,37,1,3.7,4,2,0,2,ODI v Pakistan,Sydney,04-Mar-92,54
+68,ODI # 732,81,88,77,8,1,105.19,4,caught,1,6,0,35,1,5.83,4,2,0,2,ODI v Zimbabwe,Hamilton,07-Mar-92,81
+69,ODI # 737,4,11,11,0,0,36.36,4,caught,1,3,0,20,0,6.66,5,2,1,2,ODI v West Indies,Wellington,10-Mar-92,4
+70,ODI # 740,84,122,107,6,0,78.5,4,caught,1,1,0,2,0,2,6,2,0,2,ODI v New Zealand,Dunedin,12-Mar-92,84
+71,ODI # 745,14,14,14,1,0,100,4,caught,1,6,0,20,0,3.33,3,2,0,2,ODI v South Africa,Adelaide,15-Mar-92,14
+72,Test # 1197,0,4,3,0,0,0,4,caught,2,-1,-,-,-,-,-,1,0,1,Test v Zimbabwe,Harare,18-Oct-92,0
+73,Test # 1197,-1,-,-,-,-,-,-,-,4,4,3,8,0,2,7,3,0,3,Test v Zimbabwe,Harare,18-Oct-92,-1
+74,ODI # 764,39,92,56,7,0,69.64,4,caught,1,3,0,16,0,5.33,3,2,0,2,ODI v Zimbabwe,Harare,25-Oct-92,39
+75,Test # 1200,11,35,24,1,0,45.83,4,run out,2,-1,-,-,-,-,-,1,2,1,Test v South Africa,Durban,13-Nov-92,11
+76,Test # 1200,-1,-,-,-,-,-,-,-,4,2,1,3,0,1.5,6,3,0,3,Test v South Africa,Durban,13-Nov-92,-1
+77,Test # 1201,111,373,270,19,0,41.11,4,caught,2,-1,-,-,-,-,-,1,0,1,Test v South Africa,Johannesburg,26-Nov-92,111
+78,Test # 1201,1,6,5,0,0,20,4,lbw,4,1,0,2,0,2,5,3,1,3,Test v South Africa,Johannesburg,26-Nov-92,1
+79,ODI # 770,15,-,27,1,0,55.55,4,bowled,1,10,1,25,1,2.5,3,2,1,2,ODI v South Africa,Cape Town,07-Dec-92,15
+80,ODI # 772,10,-,36,0,0,27.77,4,caught,1,5,1,18,0,3.6,5,2,0,2,ODI v South Africa,Gqeberha,09-Dec-92,10
+81,ODI # 774,22,-,24,2,0,91.66,5,caught,2,2,0,16,0,8,4,1,0,1,ODI v South Africa,Centurion,11-Dec-92,22
+82,ODI # 779,21,-,44,1,0,47.72,5,caught,1,3,0,4,0,1.33,3,2,0,2,ODI v South Africa,Johannesburg,13-Dec-92,21
+83,ODI # 781,32,-,52,1,0,61.53,5,bowled,1,4,0,27,0,6.75,6,2,0,2,ODI v South Africa,Bloemfontein,15-Dec-92,32
+84,ODI # 783,23,-,39,0,0,58.97,5,caught,2,-1,-,-,-,-,-,1,0,1,ODI v South Africa,Durban,17-Dec-92,23
+85,ODI # 784,21,-,38,3,0,55.26,3,caught,2,-1,-,-,-,-,-,1,1,1,ODI v South Africa,East London,19-Dec-92,21
+86,Test # 1206,6,27,17,1,0,35.29,4,caught,1,1,1,0,0,0,5,2,0,2,Test v South Africa,Gqeberha,26-Dec-92,6
+87,Test # 1206,0,1,1,0,0,0,4,caught,3,3,0,9,1,3,5,4,0,4,Test v South Africa,Gqeberha,26-Dec-92,0
+88,Test # 1209,73,272,208,8,1,35.09,5,caught,2,-1,-,-,-,-,-,1,1,1,Test v South Africa,Cape Town,02-Jan-93,73
+89,Test # 1209,-1,-,-,-,-,-,-,-,4,-1,-,-,-,-,-,3,0,3,Test v South Africa,Cape Town,02-Jan-93,-1
+90,ODI # 794,82,116,81,6,1,101.23,5,not out,1,-1,-,-,-,-,-,2,0,2,ODI v England,Jaipur,18-Jan-93,82
+91,ODI # 795,1,9,5,0,0,20,5,lbw,2,3,0,16,0,5.33,4,1,1,1,ODI v England,Chandigarh,21-Jan-93,1
+92,Test # 1211,50,158,118,6,0,42.37,4,caught,1,-1,-,-,-,-,-,2,0,2,Test v England,Eden Gardens,29-Jan-93,50
+93,Test # 1211,9,17,19,2,0,47.36,4,not out,4,-1,-,-,-,-,-,3,1,3,Test v England,Eden Gardens,29-Jan-93,9
+94,Test # 1213,165,361,296,24,1,55.74,4,caught,1,2,1,5,0,2.5,6,2,0,2,Test v England,Chennai,11-Feb-93,165
+95,Test # 1213,-1,-,-,-,-,-,-,-,3,2,1,4,0,2,6,3,2,3,Test v England,Chennai,11-Feb-93,-1
+96,Test # 1214,78,285,213,10,0,36.61,4,lbw,2,-1,-,-,-,-,-,1,0,1,Test v England,Wankhede,19-Feb-93,78
+97,Test # 1214,-1,-,-,-,-,-,-,-,4,-1,-,-,-,-,-,3,1,3,Test v England,Wankhede,19-Feb-93,-1
+98,ODI # 809,3,7,6,0,0,50,4,caught,2,-1,-,-,-,-,-,1,1,1,ODI v England,Bengaluru,26-Feb-93,3
+99,ODI # 811,24,42,32,1,0,75,4,bowled,1,-1,-,-,-,-,-,2,0,2,ODI v England,Jamshedpur,01-Mar-93,24
+100,ODI # 813,5,7,6,1,0,83.33,5,bowled,2,-1,-,-,-,-,-,1,0,1,ODI v England,Gwalior,04-Mar-93,5
+101,ODI # 814,34,42,30,2,1,113.33,5,caught,2,-1,-,-,-,-,-,1,0,1,ODI v England,Gwalior,05-Mar-93,34
+102,Test # 1218,62,128,114,7,0,54.38,4,caught,1,5,1,11,0,2.2,6,2,0,2,Test v Zimbabwe,Delhi,13-Mar-93,62
+103,Test # 1218,-1,-,-,-,-,-,-,-,3,-1,-,-,-,-,-,3,0,3,Test v Zimbabwe,Delhi,13-Mar-93,-1
+104,ODI # 817,3,16,9,0,0,33.33,5,caught,1,0.2,0,6,1,18,6,2,0,2,ODI v Zimbabwe,Faridabad,19-Mar-93,3
+105,ODI # 820,8,8,6,0,0,133.33,5,not out,2,-1,-,-,-,-,-,1,0,1,ODI v Zimbabwe,Guwahati,22-Mar-93,8
+106,ODI # 823,-1,-,-,-,-,-,-,-,2,4,0,30,0,7.5,4,1,0,1,ODI v Zimbabwe,Pune,25-Mar-93,-1
+107,Test # 1226,TDNB,-,-,-,-,-,-,-,-,-1,-,-,-,-,-,1,0,1,Test v Sri Lanka,Kandy,17-Jul-93,TDNB
+108,ODI # 833,21,-,39,1,0,53.84,5,caught,1,-1,-,-,-,-,-,2,0,2,ODI v Sri Lanka,Colombo (RPS),25-Jul-93,21
+109,Test # 1228,28,74,52,5,0,53.84,4,caught,1,-1,-,-,-,-,-,2,0,2,Test v Sri Lanka,Colombo (SSC),27-Jul-93,28
+110,Test # 1228,104,217,161,11,1,64.59,4,not out,3,-1,-,-,-,-,-,4,0,4,Test v Sri Lanka,Colombo (SSC),27-Jul-93,104
+111,Test # 1229,71,202,152,10,0,46.71,4,caught,2,3,0,4,0,1.33,4,1,2,1,Test v Sri Lanka,Colombo (PSS),04-Aug-93,71
+112,Test # 1229,-1,-,-,-,-,-,-,-,4,-1,-,-,-,-,-,3,1,3,Test v Sri Lanka,Colombo (PSS),04-Aug-93,-1
+113,ODI # 834,15,-,30,0,0,50,5,run out,2,6,1,20,0,3.33,4,1,1,1,ODI v Sri Lanka,Colombo (RPS),12-Aug-93,15
+114,ODI # 835,25,-,39,1,0,64.1,5,caught,1,4,0,15,0,3.75,4,2,0,2,ODI v Sri Lanka,Moratuwa,14-Aug-93,25
+115,ODI # 846,26,-,30,4,0,86.66,5,not out,2,10,2,27,1,2.7,4,1,1,1,ODI v Sri Lanka,Kanpur,07-Nov-93,26
+116,ODI # 851,2,-,8,0,0,25,5,lbw,2,2,0,11,0,5.5,6,1,0,1,ODI v West Indies,Ahmedabad,16-Nov-93,2
+117,ODI # 852,24,22,16,1,1,150,6,caught,1,8,0,48,1,6,3,2,0,2,ODI v Zimbabwe,Indore,18-Nov-93,24
+118,ODI # 855,3,-,25,0,0,12,4,caught,1,-1,-,-,-,-,-,2,0,2,ODI v South Africa,Mohali,22-Nov-93,3
+119,ODI # 856,15,-,31,3,0,48.38,5,caught,1,1,0,3,0,3,7,2,0,2,ODI v South Africa,Eden Gardens,24-Nov-93,15
+120,ODI # 858,28,-,43,2,0,65.11,5,not out,1,7,1,24,1,3.42,5,2,0,2,ODI v West Indies,Eden Gardens,27-Nov-93,28
+121,Test # 1244,142,260,224,22,0,63.39,4,caught,1,-1,-,-,-,-,-,2,0,2,Test v Sri Lanka,Lucknow,18-Jan-94,142
+122,Test # 1244,-1,-,-,-,-,-,-,-,3,-1,-,-,-,-,-,3,0,3,Test v Sri Lanka,Lucknow,18-Jan-94,-1
+123,Test # 1245,96,180,140,15,0,68.57,4,bowled,1,-1,-,-,-,-,-,2,1,2,Test v Sri Lanka,Bengaluru,26-Jan-94,96
+124,Test # 1245,-1,-,-,-,-,-,-,-,3,-1,-,-,-,-,-,3,1,3,Test v Sri Lanka,Bengaluru,26-Jan-94,-1
+125,Test # 1247,6,25,14,1,0,42.85,4,bowled,2,-1,-,-,-,-,-,1,0,1,Test v Sri Lanka,Ahmedabad,08-Feb-94,6
+126,Test # 1247,-1,-,-,-,-,-,-,-,4,4,1,7,0,1.75,6,3,0,3,Test v Sri Lanka,Ahmedabad,08-Feb-94,-1
+127,ODI # 879,1,10,5,0,0,20,5,caught,1,8,0,43,3,5.37,4,2,1,2,ODI v Sri Lanka,Rajkot,15-Feb-94,1
+128,ODI # 881,11,25,18,0,0,61.11,5,not out,2,8,0,36,1,4.5,4,1,1,1,ODI v Sri Lanka,Hyderabad (Deccan),18-Feb-94,11
+129,ODI # 883,52,83,63,3,0,82.53,5,run out,1,4,0,23,1,5.75,5,2,0,2,ODI v Sri Lanka,Jalandhar,20-Feb-94,52
+130,Test # 1255,43,55,47,7,0,91.48,4,caught,2,-1,-,-,-,-,-,1,0,1,Test v New Zealand,Hamilton,19-Mar-94,43
+131,Test # 1255,11,57,42,0,0,26.19,4,not out,4,-1,-,-,-,-,-,3,0,3,Test v New Zealand,Hamilton,19-Mar-94,11
+132,ODI # 896,15,22,19,1,0,78.94,5,caught,2,5,0,37,0,7.4,6,1,0,1,ODI v New Zealand,Napier,25-Mar-94,15
+133,ODI # 897,82,69,49,15,2,167.34,2,caught,2,-1,-,-,-,-,-,1,0,1,ODI v New Zealand,Auckland,27-Mar-94,82
+134,ODI # 898,63,91,75,9,0,84,2,lbw,1,2,0,12,0,6,7,2,0,2,ODI v New Zealand,Wellington,30-Mar-94,63
+135,ODI # 899,40,34,26,8,0,153.84,2,bowled,1,5,0,22,0,4.4,6,2,0,2,ODI v New Zealand,Christchurch,02-Apr-94,40
+136,ODI # 904,63,125,77,7,1,81.81,2,caught,1,5,0,22,0,4.4,4,2,1,2,ODI v U.A.E.,Sharjah,13-Apr-94,63
+137,ODI # 906,73,96,64,10,3,114.06,2,caught,1,8,0,34,0,4.25,5,2,0,2,ODI v Pakistan,Sharjah,15-Apr-94,73
+138,ODI # 910,6,12,7,1,0,85.71,2,caught,2,8,0,39,0,4.87,5,1,1,1,ODI v Australia,Sharjah,19-Apr-94,6
+139,ODI # 912,24,59,26,4,0,92.3,2,caught,2,8,0,45,0,5.62,5,1,0,1,ODI v Pakistan,Sharjah,22-Apr-94,24
+140,ODI # 921,11,-,16,2,0,68.75,2,not out,1,TDNB,-,-,-,-,-,-,-,-,ODI v Sri Lanka,Colombo (RPS),04-Sep-94,11
+141,ODI # 922,6,13,5,0,0,120,2,caught,1,4,0,21,0,5.25,4,2,0,2,ODI v Sri Lanka,Colombo (RPS),05-Sep-94,6
+142,ODI # 924,110,186,130,8,2,84.61,2,bowled,1,3,0,15,0,5,6,2,0,2,ODI v Australia,Colombo (RPS),09-Sep-94,110
+143,ODI # 927,0,6,2,0,0,0,2,caught,2,-1,-,-,-,-,-,1,0,1,ODI v Sri Lanka,Colombo (SSC),17-Sep-94,0
+144,ODI # 931,0,3,4,0,0,0,2,caught,2,5,0,32,0,6.4,5,1,0,1,ODI v West Indies,Faridabad,17-Oct-94,0
+145,ODI # 933,0,7,4,0,0,0,2,caught,2,-1,-,-,-,-,-,1,1,1,ODI v West Indies,Wankhede,20-Oct-94,0
+146,ODI # 936,8,28,24,0,0,33.33,3,caught,2,10,0,36,3,3.6,6,1,1,1,ODI v West Indies,Chennai,23-Oct-94,8
+147,ODI # 939,115,184,136,9,3,84.55,2,run out,2,3,0,27,0,9,6,1,0,1,ODI v New Zealand,Vadodara,28-Oct-94,115
+148,ODI # 941,34,53,47,7,0,72.34,2,bowled,2,8,0,31,2,3.87,6,1,1,1,ODI v West Indies,Kanpur,30-Oct-94,34
+149,ODI # 944,62,80,54,13,0,114.81,2,bowled,1,10,2,29,2,2.9,5,2,0,2,ODI v New Zealand,Delhi,03-Nov-94,62
+150,ODI # 947,66,101,68,8,0,97.05,2,caught,1,8,2,35,1,4.37,5,2,1,2,ODI v West Indies,Eden Gardens,05-Nov-94,66
+151,ODI # 949,54,130,64,5,0,84.37,2,caught,1,9,0,39,1,4.33,5,2,0,2,ODI v West Indies,Visakhapatnam,07-Nov-94,54
+152,ODI # 950,88,147,112,10,0,78.57,2,bowled,2,2,0,20,0,10,5,1,0,1,ODI v West Indies,Cuttack,09-Nov-94,88
+153,ODI # 951,105,180,134,10,0,78.35,2,caught,1,4,0,31,0,7.75,6,2,0,2,ODI v West Indies,Jaipur,11-Nov-94,105
+154,Test # 1274,34,70,43,7,0,79.06,4,lbw,1,-1,-,-,-,-,-,2,2,2,Test v West Indies,Wankhede,18-Nov-94,34
+155,Test # 1274,85,178,130,10,1,65.38,5,caught,3,3,0,9,0,3,6,4,1,4,Test v West Indies,Wankhede,18-Nov-94,85
+156,Test # 1277,179,414,322,24,1,55.59,4,caught,1,-1,-,-,-,-,-,2,0,2,Test v West Indies,Nagpur,01-Dec-94,179
+157,Test # 1277,54,180,138,3,0,39.13,4,caught,3,-1,-,-,-,-,-,4,2,4,Test v West Indies,Nagpur,01-Dec-94,54
+158,Test # 1278,40,72,55,9,0,72.72,4,caught,2,-1,-,-,-,-,-,1,0,1,Test v West Indies,Mohali,10-Dec-94,40
+159,Test # 1278,10,38,24,2,0,41.66,4,caught,4,1,0,10,0,10,6,3,0,3,Test v West Indies,Mohali,10-Dec-94,10
+160,ODI # 976,13,30,15,3,0,86.66,2,caught,1,-1,-,-,-,-,-,2,0,2,ODI v New Zealand,Napier,16-Feb-95,13
+161,ODI # 977,37,75,51,3,1,72.54,2,caught,2,10,0,43,0,4.3,6,1,0,1,ODI v South Africa,Hamilton,18-Feb-95,37
+162,ODI # 979,47,65,40,7,0,117.5,2,caught,2,8,0,33,1,4.12,6,1,1,1,ODI v Australia,Dunedin,22-Feb-95,47
+163,ODI # 993,48,37,30,9,1,160,2,bowled,2,-1,-,-,-,-,-,1,0,1,ODI v Bangladesh,Sharjah,05-Apr-95,48
+164,ODI # 995,4,13,9,1,0,44.44,2,caught,2,7,0,27,0,3.85,5,1,2,1,ODI v Pakistan,Sharjah,07-Apr-95,4
+165,ODI # 997,112,137,107,15,1,104.67,2,not out,2,-1,-,-,-,-,-,1,1,1,ODI v Sri Lanka,Sharjah,09-Apr-95,112
+166,ODI # 999,41,51,41,5,0,100,2,caught,2,1,0,10,0,10,6,1,0,1,ODI v Sri Lanka,Sharjah,14-Apr-95,41
+167,Test # 1308,4,7,4,1,0,100,4,caught,2,-1,-,-,-,-,-,1,3,1,Test v New Zealand,Bengaluru,18-Oct-95,4
+168,Test # 1308,0,3,0,0,0,-,4,not out,4,-1,-,-,-,-,-,3,0,3,Test v New Zealand,Bengaluru,18-Oct-95,0
+169,Test # 1309,52,98,88,5,0,59.09,4,not out,1,TDNB,-,-,-,-,-,-,-,-,Test v New Zealand,Chennai,25-Oct-95,52
+170,Test # 1310,2,8,8,0,0,25,4,bowled,1,-1,-,-,-,-,-,2,0,2,Test v New Zealand,Cuttack,08-Nov-95,2
+171,Test # 1310,-1,-,-,-,-,-,-,-,3,-1,-,-,-,-,-,4,0,4,Test v New Zealand,Cuttack,08-Nov-95,-1
+172,ODI # 1015,30,30,20,5,0,150,2,caught,1,3,0,18,0,6,6,2,0,2,ODI v New Zealand,Jamshedpur,15-Nov-95,30
+173,ODI # 1016,39,79,51,4,0,76.47,2,caught,2,4,0,15,1,3.75,6,1,1,1,ODI v New Zealand,Amritsar,18-Nov-95,39
+174,ODI # 1017,7,27,11,1,0,63.63,2,caught,2,9,0,49,2,5.44,6,1,1,1,ODI v New Zealand,Pune,24-Nov-95,7
+175,ODI # 1018,65,96,59,9,1,110.16,2,run out,2,6,0,54,0,9,6,1,0,1,ODI v New Zealand,Nagpur,26-Nov-95,65
+176,ODI # 1019,1,14,4,0,0,25,2,bowled,2,-1,-,-,-,-,-,1,0,1,ODI v New Zealand,Brabourne,29-Nov-95,1
+177,ODI # 1052,127,175,138,15,1,92.02,2,not out,2,5,0,26,0,5.2,6,1,0,1,ODI v Kenya,Cuttack,18-Feb-96,127
+178,ODI # 1056,70,137,91,8,0,76.92,2,run out,2,-1,-,-,-,-,-,1,0,1,ODI v West Indies,Gwalior,21-Feb-96,70
+179,ODI # 1065,90,124,84,14,1,107.14,2,stumped,2,-1,-,-,-,-,-,1,0,1,ODI v Australia,Wankhede,27-Feb-96,90
+180,ODI # 1070,137,198,137,8,5,100,2,run out,1,10,0,41,0,4.1,6,2,0,2,ODI v Sri Lanka,Delhi,02-Mar-96,137
+181,ODI # 1075,3,10,12,0,0,25,1,bowled,1,6,0,23,0,3.83,5,2,1,2,ODI v Zimbabwe,Kanpur,06-Mar-96,3
+182,ODI # 1078,31,103,59,3,0,52.54,2,bowled,1,5,0,25,0,5,5,2,0,2,ODI v Pakistan,Bengaluru,09-Mar-96,31
+183,ODI # 1081,65,96,88,9,0,73.86,1,stumped,2,10,1,34,2,3.4,6,1,1,1,ODI v Sri Lanka,Eden Gardens,13-Mar-96,65
+184,ODI # 1089,28,-,31,3,1,90.32,1,caught,1,5.1,0,19,0,3.67,5,2,0,2,ODI v Sri Lanka,Singapore,03-Apr-96,28
+185,ODI # 1091,100,-,111,9,1,90.09,2,stumped,1,2,0,18,0,9,5,2,0,2,ODI v Pakistan,Singapore,05-Apr-96,100
+186,ODI # 1094,1,-,5,0,0,20,2,caught,2,10,0,46,1,4.6,5,1,0,1,ODI v Pakistan,Sharjah,12-Apr-96,1
+187,ODI # 1097,2,23,15,0,0,13.33,2,caught,2,7,0,40,0,5.71,5,1,1,1,ODI v South Africa,Sharjah,14-Apr-96,2
+188,ODI # 1098,118,-,140,8,2,84.28,2,caught,1,7.1,0,40,2,5.58,5,2,0,2,ODI v Pakistan,Sharjah,15-Apr-96,118
+189,ODI # 1100,17,32,26,2,0,65.38,2,caught,1,-1,-,-,-,-,-,2,0,2,ODI v South Africa,Sharjah,17-Apr-96,17
+190,ODI # 1101,57,104,71,6,0,80.28,2,run out,2,7,0,51,0,7.28,3,1,0,1,ODI v South Africa,Sharjah,19-Apr-96,57
+191,ODI # 1102,30,30,19,5,1,157.89,2,lbw,2,6,0,44,0,7.33,5,1,1,1,ODI v England,The Oval,23-May-96,30
+192,ODI # 1103,6,26,19,0,0,31.57,2,run out,1,3,0,15,0,5,5,2,1,2,ODI v England,Leeds,25-May-96,6
+193,ODI # 1104,1,18,11,0,0,9.09,2,caught,1,2,0,22,0,11,6,2,0,2,ODI v England,Manchester,26-May-96,1
+194,Test # 1327,24,71,41,4,0,58.53,4,bowled,1,-1,-,-,-,-,-,2,0,2,Test v England,Birmingham,06-Jun-96,24
+195,Test # 1327,122,263,177,19,1,68.92,4,caught,3,-1,-,-,-,-,-,4,0,4,Test v England,Birmingham,06-Jun-96,122
+196,Test # 1328,31,81,59,5,0,52.54,4,bowled,2,2,1,1,0,0.5,6,1,2,1,Test v England,Lord's,20-Jun-96,31
+197,Test # 1328,-1,-,-,-,-,-,-,-,4,-1,-,-,-,-,-,3,0,3,Test v England,Lord's,20-Jun-96,-1
+198,Test # 1329,177,462,360,26,0,49.16,4,caught,1,7,0,28,0,4,6,2,0,2,Test v England,Nottingham,04-Jul-96,177
+199,Test # 1329,74,111,97,11,1,76.28,4,caught,3,-1,-,-,-,-,-,4,0,4,Test v England,Nottingham,04-Jul-96,74
+200,ODI # 1106,110,-,138,5,1,79.71,2,run out,1,6,0,29,1,4.83,5,2,0,2,ODI v Sri Lanka,Colombo (RPS),28-Aug-96,110
+201,ODI # 1110,40,60,46,8,0,86.95,2,caught,2,4,0,20,0,5,5,1,1,1,ODI v Zimbabwe,Colombo (SSC),01-Sep-96,40
+202,ODI # 1113,7,24,11,1,0,63.63,2,caught,1,8,0,38,0,4.75,5,2,1,2,ODI v Australia,Colombo (SSC),06-Sep-96,7
+203,ODI # 1115,89,-,89,9,3,100,2,not out,2,2,0,12,0,6,6,1,1,1,ODI v Pakistan,Toronto,16-Sep-96,89
+204,ODI # 1116,20,-,23,3,0,86.95,2,caught,1,7,0,35,1,5,6,2,0,2,ODI v Pakistan,Toronto,17-Sep-96,20
+205,ODI # 1117,2,-,13,0,0,15.38,2,caught,1,4,0,17,0,4.25,6,2,2,2,ODI v Pakistan,Toronto,18-Sep-96,2
+206,ODI # 1118,3,-,9,0,0,33.33,2,caught,2,3,0,22,1,7.33,7,1,0,1,ODI v Pakistan,Toronto,21-Sep-96,3
+207,ODI # 1119,23,-,44,0,1,52.27,2,run out,2,-1,-,-,-,-,-,1,0,1,ODI v Pakistan,Toronto,23-Sep-96,23
+208,Test # 1335,10,12,11,2,0,90.9,4,caught,2,-1,-,-,-,-,-,1,0,1,Test v Australia,Delhi,10-Oct-96,10
+209,Test # 1335,0,6,7,0,0,0,4,bowled,4,-1,-,-,-,-,-,3,0,3,Test v Australia,Delhi,10-Oct-96,0
+210,ODI # 1127,11,20,8,2,0,137.5,2,caught,2,5,0,28,0,5.6,5,1,0,1,ODI v South Africa,Hyderabad (Deccan),17-Oct-96,11
+211,ODI # 1129,88,189,111,9,0,79.27,2,lbw,2,8,0,45,1,5.62,6,1,2,1,ODI v Australia,Bengaluru,21-Oct-96,88
+212,ODI # 1130,64,133,93,3,0,68.81,2,caught,2,3,0,22,0,7.33,5,1,0,1,ODI v South Africa,Jaipur,23-Oct-96,64
+213,ODI # 1132,28,55,38,5,0,73.68,1,lbw,1,2,0,13,0,6.5,6,2,1,2,ODI v South Africa,Rajkot,29-Oct-96,28
+214,ODI # 1137,62,-,61,8,0,101.63,1,caught,1,0.1,0,0,0,0,7,2,0,2,ODI v Australia,Mohali,03-Nov-96,62
+215,ODI # 1138,67,128,88,6,0,76.13,2,caught,1,-1,-,-,-,-,-,2,0,2,ODI v South Africa,Wankhede,06-Nov-96,67
+216,Test # 1338,42,80,64,7,0,65.62,4,caught,1,-1,-,-,-,-,-,2,0,2,Test v South Africa,Ahmedabad,20-Nov-96,42
+217,Test # 1338,7,43,33,1,0,21.21,4,caught,3,-1,-,-,-,-,-,4,0,4,Test v South Africa,Ahmedabad,20-Nov-96,7
+218,Test # 1341,18,91,62,3,0,29.03,4,bowled,2,-1,-,-,-,-,-,1,0,1,Test v South Africa,Eden Gardens,27-Nov-96,18
+219,Test # 1341,2,28,25,0,0,8,4,caught,4,-1,-,-,-,-,-,3,0,3,Test v South Africa,Eden Gardens,27-Nov-96,2
+220,Test # 1344,61,211,173,4,1,35.26,4,caught,1,-1,-,-,-,-,-,2,0,2,Test v South Africa,Kanpur,08-Dec-96,61
+221,Test # 1344,36,129,98,4,0,36.73,5,caught,3,-1,-,-,-,-,-,4,1,4,Test v South Africa,Kanpur,08-Dec-96,36
+222,ODI # 1151,114,157,126,14,0,90.47,1,stumped,1,-1,-,-,-,-,-,2,0,2,ODI v South Africa,Wankhede,14-Dec-96,114
+223,Test # 1347,15,58,45,2,0,33.33,4,bowled,2,2.4,2,0,0,0,4,1,0,1,Test v South Africa,Durban,26-Dec-96,15
+224,Test # 1347,4,32,25,1,0,16,4,caught,4,-1,-,-,-,-,-,3,2,3,Test v South Africa,Durban,26-Dec-96,4
+225,Test # 1349,169,329,254,26,0,66.53,5,caught,2,-1,-,-,-,-,-,1,1,1,Test v South Africa,Cape Town,02-Jan-97,169
+226,Test # 1349,9,38,28,1,0,32.14,5,caught,4,-1,-,-,-,-,-,3,0,3,Test v South Africa,Cape Town,02-Jan-97,9
+227,Test # 1350,35,72,55,7,0,63.63,4,caught,1,-1,-,-,-,-,-,2,0,2,Test v South Africa,Johannesburg,16-Jan-97,35
+228,Test # 1350,9,13,11,2,0,81.81,4,caught,3,2,0,18,0,9,6,4,0,4,Test v South Africa,Johannesburg,16-Jan-97,9
+229,ODI # 1167,0,12,4,0,0,0,2,bowled,2,-1,-,-,-,-,-,1,1,1,ODI v South Africa,Bloemfontein,23-Jan-97,0
+230,ODI # 1169,6,8,8,1,0,75,1,caught,2,5,0,22,0,4.4,6,1,0,1,ODI v Zimbabwe,Paarl,27-Jan-97,6
+231,ODI # 1172,1,14,14,0,0,7.14,4,bowled,1,-1,-,-,-,-,-,2,0,2,ODI v South Africa,Gqeberha,02-Feb-97,1
+232,ODI # 1173,14,34,24,2,0,58.33,3,caught,1,3,0,17,0,5.66,6,2,0,2,ODI v South Africa,East London,04-Feb-97,14
+233,ODI # 1174,41,81,56,1,1,73.21,4,caught,1,1,0,11,0,11,6,2,0,2,ODI v Zimbabwe,Centurion,07-Feb-97,41
+234,ODI # 1175,104,121,97,8,1,107.21,2,caught,2,3,0,16,0,5.33,6,1,0,1,ODI v Zimbabwe,Benoni,09-Feb-97,104
+235,ODI # 1176,32,55,27,6,0,118.51,2,caught,1,-1,-,-,-,-,-,2,0,2,ODI v South Africa,Durban,12-Feb-97,32
+236,ODI # 1177,45,48,33,7,1,136.36,2,caught,2,3,0,19,1,6.33,6,1,0,1,ODI v South Africa,Durban,13-Feb-97,45
+237,ODI # 1178,13,18,15,0,1,86.66,2,caught,1,-1,-,-,-,-,-,2,0,2,ODI v Zimbabwe,Bulawayo,15-Feb-97,13
+238,Test # 1357,7,40,30,1,0,23.33,4,bowled,2,-1,-,-,-,-,-,1,0,1,Test v West Indies,Kingston,06-Mar-97,7
+239,Test # 1357,15,43,36,1,0,41.66,4,not out,4,2,0,9,0,4.5,6,3,1,3,Test v West Indies,Kingston,06-Mar-97,15
+240,Test # 1361,88,306,233,9,0,37.76,4,run out,2,-1,-,-,-,-,-,1,0,1,Test v West Indies,Port of Spain,14-Mar-97,88
+241,Test # 1361,-1,-,-,-,-,-,-,-,4,-1,-,-,-,-,-,3,0,3,Test v West Indies,Port of Spain,14-Mar-97,-1
+242,Test # 1363,92,222,147,14,1,62.58,4,caught,2,-1,-,-,-,-,-,1,3,1,Test v West Indies,Bridgetown,27-Mar-97,92
+243,Test # 1363,4,25,14,0,0,28.57,4,caught,4,-1,-,-,-,-,-,3,0,3,Test v West Indies,Bridgetown,27-Mar-97,4
+244,Test # 1364,-1,-,-,-,-,-,-,-,2,-1,-,-,-,-,-,1,1,1,Test v West Indies,St John's,04-Apr-97,-1
+245,Test # 1364,-1,-,-,-,-,-,-,-,4,-1,-,-,-,-,-,3,0,3,Test v West Indies,St John's,04-Apr-97,-1
+246,Test # 1365,83,287,231,9,0,35.93,4,caught,1,-1,-,-,-,-,-,2,0,2,Test v West Indies,Georgetown,17-Apr-97,83
+247,Test # 1365,-1,-,-,-,-,-,-,-,3,-1,-,-,-,-,-,4,0,4,Test v West Indies,Georgetown,17-Apr-97,-1
+248,ODI # 1200,44,57,43,10,0,102.32,1,caught,1,3,0,11,0,3.66,6,2,0,2,ODI v West Indies,Port of Spain,26-Apr-97,44
+249,ODI # 1201,65,111,70,7,0,92.85,1,not out,2,1,0,4,0,4,6,1,0,1,ODI v West Indies,Port of Spain,27-Apr-97,65
+250,ODI # 1202,9,22,15,1,0,60,1,bowled,2,3,0,13,1,4.33,6,1,0,1,ODI v West Indies,Kingstown,30-Apr-97,9
+251,ODI # 1203,1,17,11,0,0,9.09,1,caught,1,5,0,22,0,4.4,7,2,0,2,ODI v West Indies,Bridgetown,03-May-97,1
+252,ODI # 1206,117,188,137,13,2,85.4,2,bowled,2,7,0,35,0,5,5,1,0,1,ODI v New Zealand,Bengaluru,14-May-97,117
+253,ODI # 1207,2,19,4,0,0,50,2,caught,1,2,0,13,0,6.5,6,2,1,2,ODI v Sri Lanka,Wankhede,17-May-97,2
+254,ODI # 1209,4,10,7,1,0,57.14,1,caught,2,9,0,61,2,6.77,6,1,0,1,ODI v Pakistan,Chennai,21-May-97,4
+255,ODI # 1218,21,49,28,3,0,75,1,bowled,1,0.4,0,6,0,9,8,2,0,2,ODI v Sri Lanka,Colombo (RPS),18-Jul-97,21
+256,ODI # 1219,TDNB,-,-,-,-,-,-,-,-,-1,-,-,-,-,-,1,0,1,ODI v Pakistan,Colombo (SSC),20-Jul-97,TDNB
+257,ODI # 1221,28,36,21,5,0,133.33,2,bowled,2,5,0,18,1,3.6,5,1,0,1,ODI v Bangladesh,Colombo (SSC),24-Jul-97,28
+258,ODI # 1222,53,109,67,2,0,79.1,4,caught,1,3,0,20,0,6.66,4,2,0,2,ODI v Sri Lanka,Colombo (RPS),26-Jul-97,53
+259,Test # 1374,143,292,247,20,0,57.89,4,caught,1,2,1,2,0,1,7,2,0,2,Test v Sri Lanka,Colombo (RPS),02-Aug-97,143
+260,Test # 1374,-1,-,-,-,-,-,-,-,3,-1,-,-,-,-,-,4,0,4,Test v Sri Lanka,Colombo (RPS),02-Aug-97,-1
+261,Test # 1376,139,397,266,16,0,52.25,4,caught,2,-1,-,-,-,-,-,1,1,1,Test v Sri Lanka,Colombo (SSC),09-Aug-97,139
+262,Test # 1376,8,43,44,1,0,18.18,4,caught,4,-1,-,-,-,-,-,3,0,3,Test v Sri Lanka,Colombo (SSC),09-Aug-97,8
+263,ODI # 1223,27,55,28,3,0,96.42,1,caught,2,5,0,28,0,5.6,5,1,0,1,ODI v Sri Lanka,Colombo (RPS),17-Aug-97,27
+264,ODI # 1224,6,4,6,1,0,100,1,lbw,1,-1,-,-,-,-,-,2,1,2,ODI v Sri Lanka,Colombo (RPS),20-Aug-97,6
+265,ODI # 1225,27,47,31,4,0,87.09,2,caught,1,-1,-,-,-,-,-,2,0,2,ODI v Sri Lanka,Colombo (SSC),23-Aug-97,27
+266,ODI # 1226,39,41,32,3,2,121.87,1,caught,2,5,0,22,1,4.4,6,1,2,1,ODI v Sri Lanka,Colombo (SSC),24-Aug-97,39
+267,ODI # 1227,17,82,54,2,0,31.48,1,caught,1,2,0,13,0,6.5,6,2,0,2,ODI v Pakistan,Toronto,13-Sep-97,17
+268,ODI # 1228,25,66,45,3,0,55.55,4,not out,2,-1,-,-,-,-,-,1,0,1,ODI v Pakistan,Toronto,14-Sep-97,25
+269,ODI # 1229,TDNB,-,-,-,-,-,-,-,-,4,0,17,0,4.25,6,1,0,1,ODI v Pakistan,Toronto,17-Sep-97,TDNB
+270,ODI # 1230,0,26,10,0,0,0,4,caught,1,-1,-,-,-,-,-,2,2,2,ODI v Pakistan,Toronto,18-Sep-97,0
+271,ODI # 1231,6,10,7,1,0,85.71,1,caught,2,-1,-,-,-,-,-,1,1,1,ODI v Pakistan,Toronto,20-Sep-97,6
+272,ODI # 1232,51,106,64,4,1,79.68,1,lbw,1,-1,-,-,-,-,-,2,2,2,ODI v Pakistan,Toronto,21-Sep-97,51
+273,ODI # 1233,2,17,11,0,0,18.18,1,bowled,1,3,1,11,0,3.66,7,2,2,2,ODI v Pakistan,Hyderabad (Sind),28-Sep-97,2
+274,ODI # 1234,21,24,18,2,1,116.66,1,caught,2,1,0,7,0,7,7,1,0,1,ODI v Pakistan,Karachi,30-Sep-97,21
+275,ODI # 1236,7,19,11,1,0,63.63,1,caught,1,-1,-,-,-,-,-,2,1,2,ODI v Pakistan,Lahore,02-Oct-97,7
+276,Test # 1385,23,129,93,2,0,24.73,4,caught,2,-1,-,-,-,-,-,1,0,1,Test v Sri Lanka,Mohali,19-Nov-97,23
+277,Test # 1385,-1,-,-,-,-,-,-,-,4,-1,-,-,-,-,-,3,1,3,Test v Sri Lanka,Mohali,19-Nov-97,-1
+278,Test # 1387,15,38,20,1,1,75,4,bowled,1,TDNB,-,-,-,-,-,-,-,-,Test v Sri Lanka,Nagpur,26-Nov-97,15
+279,Test # 1390,148,320,244,20,3,60.65,5,bowled,1,-1,-,-,-,-,-,2,0,2,Test v Sri Lanka,Wankhede,03-Dec-97,148
+280,Test # 1390,13,28,16,1,0,81.25,4,caught,3,2,2,0,0,0,6,4,1,4,Test v Sri Lanka,Wankhede,03-Dec-97,13
+281,ODI # 1259,91,146,87,4,2,104.59,4,stumped,2,4,0,24,0,6,7,1,1,1,ODI v England,Sharjah,11-Dec-97,91
+282,ODI # 1262,3,4,4,0,0,75,5,caught,1,-1,-,-,-,-,-,2,0,2,ODI v Pakistan,Sharjah,14-Dec-97,3
+283,ODI # 1264,1,3,2,0,0,50,4,run out,2,4,0,17,0,4.25,6,1,0,1,ODI v West Indies,Sharjah,16-Dec-97,1
+284,ODI # 1267,82,110,86,6,0,95.34,4,not out,2,-1,-,-,-,-,-,1,0,1,ODI v Sri Lanka,Guwahati,22-Dec-97,82
+285,ODI # 1268,TDNB,-,-,-,-,-,-,-,-,-1,-,-,-,-,-,1,0,1,ODI v Sri Lanka,Indore,25-Dec-97,TDNB
+286,ODI # 1269,6,23,13,0,0,46.15,3,caught,1,1,0,7,0,7,7,2,0,2,ODI v Sri Lanka,Margao,28-Dec-97,6
+287,ODI # 1271,54,104,76,4,0,71.05,4,caught,2,2,0,13,0,6.5,7,1,2,1,ODI v Bangladesh,Dhaka,10-Jan-98,54
+288,ODI # 1273,67,-,44,11,0,152.27,2,stumped,1,4,0,24,1,6,7,2,4,2,ODI v Pakistan,Dhaka,11-Jan-98,67
+289,ODI # 1276,95,104,78,6,5,121.79,2,bowled,2,7,0,45,3,6.42,6,1,0,1,ODI v Pakistan,Dhaka,14-Jan-98,95
+290,ODI # 1277,1,14,6,0,0,16.66,2,bowled,1,3.3,0,17,0,4.85,6,2,0,2,ODI v Pakistan,Dhaka,16-Jan-98,1
+291,ODI # 1279,41,-,26,7,1,157.69,2,caught,2,7,0,49,1,7,6,1,0,1,ODI v Pakistan,Dhaka,18-Jan-98,41
+292,Test # 1405,4,7,5,1,0,80,4,caught,1,-1,-,-,-,-,-,2,1,2,Test v Australia,Chennai,06-Mar-98,4
+293,Test # 1405,155,286,191,14,4,81.15,4,not out,3,-1,-,-,-,-,-,4,0,4,Test v Australia,Chennai,06-Mar-98,155
+294,Test # 1409,79,109,86,12,2,91.86,4,caught,2,2,0,6,0,3,4,1,0,1,Test v Australia,Eden Gardens,18-Mar-98,79
+295,Test # 1409,-1,-,-,-,-,-,-,-,4,-1,-,-,-,-,-,3,0,3,Test v Australia,Eden Gardens,18-Mar-98,-1
+296,Test # 1413,177,298,207,29,3,85.5,4,bowled,1,-1,-,-,-,-,-,2,1,2,Test v Australia,Bengaluru,25-Mar-98,177
+297,Test # 1413,31,75,64,4,0,48.43,4,caught,3,11.2,1,41,1,3.61,5,4,0,4,Test v Australia,Bengaluru,25-Mar-98,31
+298,ODI # 1300,8,21,11,1,0,72.72,2,caught,1,10,1,32,5,3.2,6,2,1,2,ODI v Australia,Kochi,01-Apr-98,8
+299,ODI # 1305,5,44,17,0,0,29.41,2,run out,1,5,0,36,1,7.2,7,2,0,2,ODI v Zimbabwe,Vadodara,05-Apr-98,5
+300,ODI # 1308,100,132,89,5,7,112.35,2,caught,2,4,0,19,0,4.75,6,1,0,1,ODI v Australia,Kanpur,07-Apr-98,100
+301,ODI # 1311,1,18,2,0,0,50,2,caught,1,2,0,20,0,10,7,2,0,2,ODI v Zimbabwe,Cuttack,09-Apr-98,1
+302,ODI # 1316,15,45,24,2,0,62.5,2,caught,1,5,0,13,0,2.6,6,2,1,2,ODI v Australia,Delhi,14-Apr-98,15
+303,ODI # 1319,40,62,41,5,1,97.56,1,caught,1,2,0,13,0,6.5,7,2,0,2,ODI v New Zealand,Sharjah,17-Apr-98,40
+304,ODI # 1322,80,136,72,9,0,111.11,2,caught,2,4,0,21,0,5.25,6,1,0,1,ODI v Australia,Sharjah,19-Apr-98,80
+305,ODI # 1323,38,93,58,2,0,65.51,1,run out,1,7,0,28,1,4,6,2,0,2,ODI v New Zealand,Sharjah,20-Apr-98,38
+306,ODI # 1325,143,187,131,9,5,109.16,2,caught,2,5,0,27,1,5.4,8,1,0,1,ODI v Australia,Sharjah,22-Apr-98,143
+307,ODI # 1327,134,195,131,12,3,102.29,2,lbw,2,1,0,12,0,12,7,1,0,1,ODI v Australia,Sharjah,24-Apr-98,134
+308,ODI # 1335,33,48,29,6,0,113.79,2,caught,2,1.3,0,8,2,5.33,6,1,0,1,ODI v Bangladesh,Wankhede,25-May-98,33
+309,ODI # 1336,18,33,25,2,0,72,2,caught,2,5,0,34,0,6.8,4,1,0,1,ODI v Kenya,Gwalior,28-May-98,18
+310,ODI # 1337,100,156,103,13,0,97.08,2,not out,2,1,0,4,0,4,8,1,0,1,ODI v Kenya,Eden Gardens,31-May-98,100
+311,ODI # 1338,65,79,50,9,0,130,2,caught,2,2,0,17,0,8.5,7,1,0,1,ODI v Sri Lanka,Colombo (RPS),19-Jun-98,65
+312,ODI # 1340,53,43,36,3,3,147.22,2,caught,2,6,0,32,1,5.33,7,1,0,1,ODI v New Zealand,Colombo (RPS),23-Jun-98,53
+313,ODI # 1341,17,28,16,4,0,106.25,2,caught,2,-1,-,-,-,-,-,1,1,1,ODI v Sri Lanka,Colombo (SSC),01-Jul-98,17
+314,ODI # 1342,TDNB,-,-,-,-,-,-,-,-,-1,-,-,-,-,-,1,1,1,ODI v New Zealand,Colombo (SSC),03-Jul-98,TDNB
+315,ODI # 1344,128,182,131,8,2,97.7,2,stumped,1,1,0,13,0,13,7,2,0,2,ODI v Sri Lanka,Colombo (RPS),07-Jul-98,128
+316,ODI # 1353,77,157,109,9,0,70.64,2,caught,1,-1,-,-,-,-,-,2,0,2,ODI v Pakistan,Toronto,20-Sep-98,77
+317,ODI # 1354,127,155,130,13,1,97.69,2,not out,2,-1,-,-,-,-,-,1,1,1,ODI v Zimbabwe,Bulawayo,26-Sep-98,127
+318,ODI # 1355,29,33,21,4,1,138.09,1,caught,2,2,0,11,0,5.5,6,1,0,1,ODI v Zimbabwe,Bulawayo,27-Sep-98,29
+319,ODI # 1356,2,7,6,0,0,33.33,2,caught,2,4,0,30,0,7.5,7,1,0,1,ODI v Zimbabwe,Harare,30-Sep-98,2
+320,Test # 1425,34,103,68,3,0,50,5,caught,2,-1,-,-,-,-,-,1,0,1,Test v Zimbabwe,Harare,07-Oct-98,34
+321,Test # 1425,7,27,14,0,0,50,4,caught,4,-1,-,-,-,-,-,3,0,3,Test v Zimbabwe,Harare,07-Oct-98,7
+322,ODI # 1360,141,191,128,13,3,110.15,2,run out,1,9.1,0,38,4,4.14,6,2,1,2,ODI v Australia,Dhaka,28-Oct-98,141
+323,ODI # 1363,8,20,14,1,0,57.14,2,caught,1,10,1,29,2,2.9,5,2,1,2,ODI v West Indies,Dhaka,31-Oct-98,8
+324,ODI # 1366,3,15,6,0,0,50,2,caught,2,4,0,17,0,4.25,6,1,0,1,ODI v Sri Lanka,Sharjah,06-Nov-98,3
+325,ODI # 1369,118,173,112,14,2,105.35,2,not out,2,1,0,4,0,4,6,1,0,1,ODI v Zimbabwe,Sharjah,08-Nov-98,118
+326,ODI # 1370,18,57,28,2,0,64.28,1,caught,1,-1,-,-,-,-,-,2,0,2,ODI v Sri Lanka,Sharjah,09-Nov-98,18
+327,ODI # 1373,11,33,12,2,0,91.66,2,caught,2,5,0,14,1,2.8,6,1,0,1,ODI v Zimbabwe,Sharjah,11-Nov-98,11
+328,ODI # 1374,124,140,92,12,6,134.78,2,not out,2,4,0,16,1,4,6,1,1,1,ODI v Zimbabwe,Sharjah,13-Nov-98,124
+329,Test # 1435,47,95,72,7,0,65.27,5,caught,1,6,2,7,2,1.16,6,2,1,2,Test v New Zealand,Wellington,26-Dec-98,47
+330,Test # 1435,113,200,151,13,2,74.83,5,caught,3,3,0,8,0,2.66,5,4,0,4,Test v New Zealand,Wellington,26-Dec-98,113
+331,Test # 1438,67,118,93,9,1,72.04,4,lbw,2,3,0,23,0,7.66,6,1,0,1,Test v New Zealand,Hamilton,02-Jan-99,67
+332,Test # 1438,-1,-,-,-,-,-,-,-,4,7,0,30,2,4.28,5,3,0,3,Test v New Zealand,Hamilton,02-Jan-99,-1
+333,ODI # 1378,0,10,5,0,0,0,2,caught,1,8,0,34,1,4.25,5,2,0,2,ODI v New Zealand,Taupo,09-Jan-99,0
+334,ODI # 1381,23,37,19,4,0,121.05,2,caught,2,8.3,0,34,3,4,5,1,0,1,ODI v New Zealand,Napier,12-Jan-99,23
+335,ODI # 1383,45,68,42,2,2,107.14,2,stumped,1,-1,-,-,-,-,-,2,0,2,ODI v New Zealand,Wellington,14-Jan-99,45
+336,ODI # 1385,5,27,12,1,0,41.66,1,lbw,2,6,0,29,1,4.83,6,1,0,1,ODI v New Zealand,Auckland,16-Jan-99,5
+337,Test # 1442,0,5,3,0,0,0,4,caught,2,3,0,10,1,3.33,5,1,0,1,Test v Pakistan,Chennai,28-Jan-99,0
+338,Test # 1442,136,405,273,18,0,49.81,4,caught,4,7,1,35,2,5,5,3,0,3,Test v Pakistan,Chennai,28-Jan-99,136
+339,Test # 1443,6,13,11,1,0,54.54,4,lbw,1,-1,-,-,-,-,-,2,0,2,Test v Pakistan,Delhi,04-Feb-99,6
+340,Test # 1443,29,99,65,4,0,44.61,4,caught,3,-1,-,-,-,-,-,4,0,4,Test v Pakistan,Delhi,04-Feb-99,29
+341,Test # 1444,0,2,1,0,0,0,5,bowled,2,3,1,8,1,2.66,6,1,0,1,Test v Pakistan,Eden Gardens,16-Feb-99,0
+342,Test # 1444,9,18,13,1,0,69.23,4,run out,4,2,0,10,0,5,7,3,0,3,Test v Pakistan,Eden Gardens,16-Feb-99,9
+343,Test # 1445,53,94,54,10,0,98.14,4,caught,1,5,0,16,0,3.2,5,2,0,2,Test v Sri Lanka,Colombo (SSC),24-Feb-99,53
+344,Test # 1445,124,308,235,10,1,52.76,4,not out,3,-1,-,-,-,-,-,4,0,4,Test v Sri Lanka,Colombo (SSC),24-Feb-99,124
+345,ODI # 1444,28,71,46,5,0,60.86,2,caught,1,4,0,22,0,5.5,7,2,0,2,ODI v South Africa,Hove,15-May-99,28
+346,ODI # 1457,140,114,101,16,3,138.61,4,not out,1,1,0,23,0,23,6,2,0,2,ODI v Kenya,Bristol,23-May-99,140
+347,ODI # 1463,2,10,3,0,0,66.66,4,bowled,1,-1,-,-,-,-,-,2,1,2,ODI v Sri Lanka,Taunton,26-May-99,2
+348,ODI # 1467,22,49,40,2,0,55,4,caught,1,-1,-,-,-,-,-,2,0,2,ODI v England,Birmingham,29-May-99,22
+349,ODI # 1473,0,5,4,0,0,0,2,caught,2,1,0,4,0,4,7,1,0,1,ODI v Australia,The Oval,04-Jun-99,0
+350,ODI # 1476,45,92,65,5,0,69.23,1,caught,1,-1,-,-,-,-,-,2,1,2,ODI v Pakistan,Manchester,08-Jun-99,45
+351,ODI # 1480,16,26,22,2,0,72.72,1,bowled,1,3,0,14,0,4.66,7,2,0,2,ODI v New Zealand,Nottingham,12-Jun-99,16
+352,ODI # 1486,14,52,33,0,0,42.42,2,caught,1,-1,-,-,-,-,-,2,0,2,ODI v Australia,Galle,23-Aug-99,14
+353,ODI # 1487,37,105,58,1,0,63.79,2,run out,1,-1,-,-,-,-,-,2,0,2,ODI v Sri Lanka,Colombo (RPS),25-Aug-99,37
+354,ODI # 1490,120,191,141,11,2,85.1,1,caught,1,-1,-,-,-,-,-,2,0,2,ODI v Sri Lanka,Colombo (SSC),29-Aug-99,120
+355,ODI # 1493,85,114,72,7,3,118.05,2,caught,1,-1,-,-,-,-,-,2,0,2,ODI v Zimbabwe,Singapore,04-Sep-99,85
+356,ODI # 1495,40,97,65,6,0,61.53,1,caught,1,TDNB,-,-,-,-,-,-,-,-,ODI v West Indies,Singapore,07-Sep-99,40
+357,ODI # 1496,0,-,6,0,0,0,1,caught,1,-1,-,-,-,-,-,2,0,2,ODI v West Indies,Singapore,08-Sep-99,0
+358,Test # 1462,18,61,34,3,0,52.94,4,bowled,1,-1,-,-,-,-,-,2,0,2,Test v New Zealand,Mohali,10-Oct-99,18
+359,Test # 1462,126,397,248,14,0,50.8,4,not out,3,6,2,11,0,1.83,6,4,0,4,Test v New Zealand,Mohali,10-Oct-99,126
+360,Test # 1464,15,76,54,3,0,27.77,4,caught,2,-1,-,-,-,-,-,1,1,1,Test v New Zealand,Kanpur,22-Oct-99,15
+361,Test # 1464,44,58,39,8,0,112.82,4,not out,4,-1,-,-,-,-,-,3,1,3,Test v New Zealand,Kanpur,22-Oct-99,44
+362,Test # 1465,217,494,344,29,0,63.08,4,caught,1,-1,-,-,-,-,-,2,0,2,Test v New Zealand,Ahmedabad,29-Oct-99,217
+363,Test # 1465,15,16,10,3,0,150,2,bowled,3,5,2,19,0,3.8,5,4,0,4,Test v New Zealand,Ahmedabad,29-Oct-99,15
+364,ODI # 1522,32,61,31,2,1,103.22,2,caught,2,3,0,18,0,6,5,1,1,1,ODI v New Zealand,Rajkot,05-Nov-99,32
+365,ODI # 1523,186,221,150,20,3,124,2,not out,1,-1,-,-,-,-,-,2,1,2,ODI v New Zealand,Hyderabad (Deccan),08-Nov-99,186
+366,ODI # 1524,1,41,23,0,0,4.34,2,caught,1,-1,-,-,-,-,-,2,0,2,ODI v New Zealand,Gwalior,11-Nov-99,1
+367,ODI # 1525,2,21,10,0,0,20,2,caught,2,-1,-,-,-,-,-,1,0,1,ODI v New Zealand,Guwahati,14-Nov-99,2
+368,ODI # 1526,0,2,3,0,0,0,4,caught,2,-1,-,-,-,-,-,1,0,1,ODI v New Zealand,Delhi,17-Nov-99,0
+369,Test # 1476,61,181,133,8,0,45.86,5,caught,2,2,0,12,0,6,6,1,0,1,Test v Australia,Adelaide,10-Dec-99,61
+370,Test # 1476,0,6,5,0,0,0,5,lbw,4,-1,-,-,-,-,-,3,0,3,Test v Australia,Adelaide,10-Dec-99,0
+371,Test # 1479,116,283,191,9,1,60.73,4,caught,2,-1,-,-,-,-,-,1,0,1,Test v Australia,Melbourne,26-Dec-99,116
+372,Test # 1479,52,162,122,4,0,42.62,4,lbw,4,-1,-,-,-,-,-,3,0,3,Test v Australia,Melbourne,26-Dec-99,52
+373,Test # 1481,45,82,53,8,0,84.9,4,lbw,1,7,0,34,1,4.85,7,2,0,2,Test v Australia,Sydney,02-Jan-00,45
+374,Test # 1481,4,6,4,1,0,100,4,caught,3,-1,-,-,-,-,-,4,0,4,Test v Australia,Sydney,02-Jan-00,4
+375,ODI # 1537,13,28,26,2,0,50,4,bowled,1,-1,-,-,-,-,-,2,0,2,ODI v Pakistan,Brisbane,10-Jan-00,13
+376,ODI # 1539,12,25,11,2,0,109.09,4,run out,2,3,0,23,0,7.66,4,1,2,1,ODI v Australia,Melbourne,12-Jan-00,12
+377,ODI # 1540,1,13,11,0,0,9.09,2,caught,1,-1,-,-,-,-,-,2,0,2,ODI v Australia,Sydney,14-Jan-00,1
+378,ODI # 1543,93,157,103,10,0,90.29,1,bowled,2,1,0,6,0,6,7,1,1,1,ODI v Pakistan,Hobart,21-Jan-00,93
+379,ODI # 1547,41,69,46,5,0,89.13,1,caught,1,-1,-,-,-,-,-,2,1,2,ODI v Pakistan,Adelaide,25-Jan-00,41
+380,ODI # 1548,18,45,28,2,0,64.28,1,caught,2,7,0,48,1,6.85,7,1,0,1,ODI v Australia,Adelaide,26-Jan-00,18
+381,ODI # 1550,17,19,14,4,0,121.42,1,caught,2,-1,-,-,-,-,-,1,2,1,ODI v Pakistan,W.A.C.A,28-Jan-00,17
+382,ODI # 1552,3,23,21,0,0,14.28,2,bowled,1,-1,-,-,-,-,-,2,1,2,ODI v Australia,W.A.C.A,30-Jan-00,3
+383,Test # 1484,97,208,163,12,2,59.5,4,caught,1,5,1,10,3,2,5,2,0,2,Test v South Africa,Wankhede,24-Feb-00,97
+384,Test # 1484,8,20,11,2,0,72.72,4,lbw,3,1,0,4,0,4,5,4,0,4,Test v South Africa,Wankhede,24-Feb-00,8
+385,Test # 1486,21,120,76,3,0,27.63,4,caught,1,10,2,33,0,3.3,5,2,2,2,Test v South Africa,Bengaluru,02-Mar-00,21
+386,Test # 1486,20,76,53,2,0,37.73,4,caught,3,-1,-,-,-,-,-,4,0,4,Test v South Africa,Bengaluru,02-Mar-00,20
+387,ODI # 1572,26,66,25,4,0,104,2,caught,2,10,0,44,0,4.4,5,1,0,1,ODI v South Africa,Kochi,09-Mar-00,26
+388,ODI # 1573,21,39,31,3,0,67.74,2,caught,2,9,0,39,1,4.33,5,1,0,1,ODI v South Africa,Jamshedpur,12-Mar-00,21
+389,ODI # 1574,12,48,28,1,0,42.85,2,lbw,1,10,0,56,4,5.6,5,2,1,2,ODI v South Africa,Faridabad,15-Mar-00,12
+390,ODI # 1575,122,195,138,12,0,88.4,2,caught,2,9,1,43,0,4.77,6,1,0,1,ODI v South Africa,Vadodara,17-Mar-00,122
+391,ODI # 1576,93,119,89,7,4,104.49,2,caught,2,10,0,31,1,3.1,7,1,0,1,ODI v South Africa,Nagpur,19-Mar-00,93
+392,ODI # 1577,5,10,8,0,0,62.5,2,bowled,1,6,0,32,0,5.33,5,2,0,2,ODI v South Africa,Sharjah,22-Mar-00,5
+393,ODI # 1578,11,54,28,1,0,39.28,2,lbw,2,4,0,21,0,5.25,5,1,0,1,ODI v Pakistan,Sharjah,23-Mar-00,11
+394,ODI # 1580,10,23,18,1,0,55.55,2,bowled,2,1,0,11,0,11,7,1,0,1,ODI v Pakistan,Sharjah,26-Mar-00,10
+395,ODI # 1581,39,117,68,3,0,57.35,1,run out,1,1,0,3,0,3,5,2,0,2,ODI v South Africa,Sharjah,27-Mar-00,39
+396,ODI # 1597,36,55,25,4,2,144,2,caught,2,6,0,24,2,4,8,1,0,1,ODI v Bangladesh,Dhaka,30-May-00,36
+397,ODI # 1598,93,174,95,10,0,97.89,2,caught,2,8,0,44,2,5.5,7,1,0,1,ODI v Sri Lanka,Dhaka,01-Jun-00,93
+398,ODI # 1600,25,74,30,4,0,83.33,2,lbw,2,10,0,41,0,4.1,5,1,1,1,ODI v Pakistan,Dhaka,03-Jun-00,25
+399,ODI # 1630,25,55,35,4,0,71.42,2,lbw,2,6,0,25,0,4.16,5,1,0,1,ODI v Kenya,Nairobi (Gym),03-Oct-00,25
+400,ODI # 1633,38,58,37,3,3,102.7,2,caught,1,7,0,31,1,4.42,5,2,0,2,ODI v Australia,Nairobi (Gym),07-Oct-00,38
+401,ODI # 1638,39,61,50,4,0,78,2,caught,1,5,0,32,2,6.4,6,2,1,2,ODI v South Africa,Nairobi (Gym),13-Oct-00,39
+402,ODI # 1639,69,103,83,10,1,83.13,2,run out,1,10,1,38,1,3.8,5,2,0,2,ODI v New Zealand,Nairobi (Gym),15-Oct-00,69
+403,ODI # 1640,101,-,140,3,1,72.14,2,run out,1,5,0,22,0,4.4,5,2,0,2,ODI v Sri Lanka,Sharjah,20-Oct-00,101
+404,ODI # 1644,8,-,15,1,0,53.33,2,caught,1,6,0,46,1,7.66,7,2,0,2,ODI v Zimbabwe,Sharjah,22-Oct-00,8
+405,ODI # 1648,4,-,10,0,0,40,1,caught,2,3,0,16,0,5.33,6,1,0,1,ODI v Zimbabwe,Sharjah,26-Oct-00,4
+406,ODI # 1650,61,-,54,7,0,112.96,2,caught,2,3,0,21,0,7,8,1,0,1,ODI v Sri Lanka,Sharjah,27-Oct-00,61
+407,ODI # 1652,5,-,11,0,0,45.45,2,caught,2,10,0,28,1,2.8,5,1,0,1,ODI v Sri Lanka,Sharjah,29-Oct-00,5
+408,Test # 1512,18,63,41,1,0,43.9,5,caught,2,10,2,34,1,3.4,6,1,0,1,Test v Bangladesh,Dhaka,10-Nov-00,18
+409,Test # 1512,-1,-,-,-,-,-,-,-,4,-1,-,-,-,-,-,3,0,3,Test v Bangladesh,Dhaka,10-Nov-00,-1
+410,Test # 1515,122,283,233,19,0,52.36,4,caught,2,19,5,51,1,2.68,5,1,0,1,Test v Zimbabwe,Delhi,18-Nov-00,122
+411,Test # 1515,39,45,39,8,0,100,4,caught,4,4,1,10,0,2.5,4,3,1,3,Test v Zimbabwe,Delhi,18-Nov-00,39
+412,Test # 1517,201,392,281,27,0,71.53,4,not out,1,1,0,7,0,7,6,2,0,2,Test v Zimbabwe,Nagpur,25-Nov-00,201
+413,Test # 1517,-1,-,-,-,-,-,-,-,3,11,3,19,0,1.72,5,3,2,3,Test v Zimbabwe,Nagpur,25-Nov-00,-1
+414,ODI # 1656,44,90,49,7,0,89.79,2,caught,2,4,0,22,1,5.5,6,1,1,1,ODI v Zimbabwe,Cuttack,02-Dec-00,44
+415,ODI # 1657,8,27,20,0,0,40,1,caught,1,10,0,53,1,5.3,3,2,0,2,ODI v Zimbabwe,Ahmedabad,05-Dec-00,8
+416,ODI # 1658,146,200,153,15,2,95.42,2,caught,1,6,0,35,1,5.83,6,2,0,2,ODI v Zimbabwe,Jodhpur,08-Dec-00,146
+417,ODI # 1659,62,113,86,9,0,72.09,2,lbw,2,-1,-,-,-,-,-,1,0,1,ODI v Zimbabwe,Kanpur,11-Dec-00,62
+418,ODI # 1660,27,38,38,5,0,71.05,2,bowled,1,-1,-,-,-,-,-,2,0,2,ODI v Zimbabwe,Rajkot,14-Dec-00,27
+419,Test # 1531,76,138,114,13,0,66.66,4,caught,1,7,1,35,0,5,5,2,1,2,Test v Australia,Wankhede,27-Feb-01,76
+420,Test # 1531,65,153,107,11,0,60.74,5,caught,3,-1,-,-,-,-,-,4,0,4,Test v Australia,Wankhede,27-Feb-01,65
+421,Test # 1535,10,25,18,2,0,55.55,4,lbw,2,2,0,7,0,3.5,6,1,0,1,Test v Australia,Eden Gardens,11-Mar-01,10
+422,Test # 1535,10,26,23,2,0,43.47,4,caught,3,11,3,31,3,2.81,5,4,0,4,Test v Australia,Eden Gardens,11-Mar-01,10
+423,Test # 1539,126,346,230,15,2,54.78,4,caught,2,16,1,35,0,2.18,6,1,0,1,Test v Australia,Chennai,18-Mar-01,126
+424,Test # 1539,17,27,17,3,0,100,4,caught,4,12,0,43,0,3.58,5,3,0,3,Test v Australia,Chennai,18-Mar-01,17
+425,ODI # 1696,35,47,26,6,1,134.61,2,run out,1,-1,-,-,-,-,-,2,0,2,ODI v Australia,Bengaluru,25-Mar-01,35
+426,ODI # 1698,32,35,29,6,1,110.34,2,caught,1,10,0,59,0,5.9,6,2,0,2,ODI v Australia,Pune,28-Mar-01,32
+427,ODI # 1699,139,197,125,19,0,111.2,2,caught,1,-1,-,-,-,-,-,2,1,2,ODI v Australia,Indore,31-Mar-01,139
+428,ODI # 1700,62,68,38,11,0,163.15,2,caught,2,1,0,12,0,12,7,1,1,1,ODI v Australia,Visakhapatnam,03-Apr-01,62
+429,ODI # 1701,12,17,15,2,0,80,2,caught,1,10,0,35,3,3.5,5,2,0,2,ODI v Australia,Margao,06-Apr-01,12
+430,Test # 1548,74,179,128,12,0,57.81,4,caught,2,-1,-,-,-,-,-,1,0,1,Test v Zimbabwe,Bulawayo,07-Jun-01,74
+431,Test # 1548,36,41,49,4,0,73.46,4,not out,4,6,0,23,0,3.83,5,3,0,3,Test v Zimbabwe,Bulawayo,07-Jun-01,36
+432,Test # 1549,20,78,46,2,1,43.47,4,bowled,1,4,0,19,1,4.75,5,2,0,2,Test v Zimbabwe,Harare,15-Jun-01,20
+433,Test # 1549,69,185,135,9,0,51.11,4,caught,3,1,0,7,0,7,5,4,0,4,Test v Zimbabwe,Harare,15-Jun-01,69
+434,ODI # 1729,70,129,70,13,0,100,2,not out,2,-1,-,-,-,-,-,1,0,1,ODI v Zimbabwe,Harare,24-Jun-01,70
+435,ODI # 1730,9,42,27,0,0,33.33,2,caught,2,-1,-,-,-,-,-,1,0,1,ODI v Zimbabwe,Bulawayo,27-Jun-01,9
+436,ODI # 1731,81,191,110,8,0,73.63,2,not out,2,2,0,14,0,7,6,1,0,1,ODI v West Indies,Bulawayo,30-Jun-01,81
+437,ODI # 1733,122,210,131,12,1,93.12,2,not out,2,2,0,11,0,5.5,6,1,0,1,ODI v West Indies,Harare,04-Jul-01,122
+438,ODI # 1734,0,10,4,0,0,0,2,caught,2,-1,-,-,-,-,-,1,0,1,ODI v West Indies,Harare,07-Jul-01,0
+439,ODI # 1752,101,209,129,9,0,78.29,2,caught,1,9,0,51,0,5.66,5,2,0,2,ODI v South Africa,Johannesburg,05-Oct-01,101
+440,ODI # 1757,38,82,57,5,0,66.66,2,caught,1,4,0,21,0,5.25,5,2,0,2,ODI v South Africa,Centurion,10-Oct-01,38
+441,ODI # 1758,-1,-,-,-,-,-,-,-,2,-1,-,-,-,-,-,1,0,1,ODI v Kenya,Bloemfontein,12-Oct-01,-1
+442,ODI # 1761,3,24,20,0,0,15,2,bowled,2,-1,-,-,-,-,-,1,1,1,ODI v Kenya,Gqeberha,17-Oct-01,3
+443,ODI # 1762,37,68,35,5,0,105.71,2,bowled,2,-1,-,-,-,-,-,1,0,1,ODI v South Africa,East London,19-Oct-01,37
+444,ODI # 1764,146,186,132,17,0,110.6,2,caught,1,-1,-,-,-,-,-,2,0,2,ODI v Kenya,Paarl,24-Oct-01,146
+445,ODI # 1766,17,49,42,3,0,40.47,2,bowled,1,5,1,27,2,5.4,5,2,0,2,ODI v South Africa,Durban,26-Oct-01,17
+446,Test # 1564,155,233,184,23,1,84.23,4,caught,1,7,0,27,0,3.85,5,2,0,2,Test v South Africa,Bloemfontein,03-Nov-01,155
+447,Test # 1564,15,60,35,2,0,42.85,4,caught,3,-1,-,-,-,-,-,4,0,4,Test v South Africa,Bloemfontein,03-Nov-01,15
+448,Test # 1569,1,10,4,0,0,25,4,caught,2,4,0,22,1,5.5,6,1,0,1,Test v South Africa,Gqeberha,16-Nov-01,1
+449,Test # 1569,22,54,45,4,0,48.88,4,not out,4,4,0,10,0,2.5,4,3,0,3,Test v South Africa,Gqeberha,16-Nov-01,22
+450,Test # 1574,88,229,144,13,0,61.11,5,caught,2,4,3,4,0,1,5,1,0,1,Test v England,Mohali,03-Dec-01,88
+451,Test # 1574,-1,-,-,-,-,-,-,-,4,-1,-,-,-,-,-,3,0,3,Test v England,Mohali,03-Dec-01,-1
+452,Test # 1575,103,254,197,12,1,52.28,4,caught,2,10,0,27,1,2.7,5,1,1,1,Test v England,Ahmedabad,11-Dec-01,103
+453,Test # 1575,26,87,81,4,0,32.09,4,caught,4,-1,-,-,-,-,-,3,2,3,Test v England,Ahmedabad,11-Dec-01,26
+454,Test # 1578,90,263,198,13,0,45.45,4,stumped,2,3,0,19,0,6.33,6,1,1,1,Test v England,Bengaluru,19-Dec-01,90
+455,Test # 1578,-1,-,-,-,-,-,-,-,4,-1,-,-,-,-,-,3,0,3,Test v England,Bengaluru,19-Dec-01,-1
+456,ODI # 1788,36,71,43,6,0,83.72,2,bowled,1,4,0,23,0,5.75,5,2,1,2,ODI v England,Eden Gardens,19-Jan-02,36
+457,ODI # 1792,45,101,60,6,0,75,2,run out,2,6,0,35,0,5.83,6,1,0,1,ODI v England,Cuttack,22-Jan-02,45
+458,ODI # 1795,68,110,79,10,0,86.07,1,lbw,2,1,0,8,0,8,6,1,1,1,ODI v England,Chennai,25-Jan-02,68
+459,ODI # 1798,87,120,67,13,1,129.85,1,not out,2,3.5,0,17,0,4.43,7,1,1,1,ODI v England,Kanpur,28-Jan-02,87
+460,ODI # 1800,18,20,16,3,0,112.5,2,caught,2,9,0,45,1,5,6,1,0,1,ODI v England,Delhi,31-Jan-02,18
+461,ODI # 1803,12,22,18,1,1,66.66,2,caught,2,7,0,30,1,4.28,6,1,0,1,ODI v England,Wankhede,03-Feb-02,12
+462,Test # 1589,176,440,316,23,0,55.69,4,caught,2,-1,-,-,-,-,-,1,0,1,Test v Zimbabwe,Nagpur,21-Feb-02,176
+463,Test # 1589,-1,-,-,-,-,-,-,-,4,6,2,11,0,1.83,5,3,1,3,Test v Zimbabwe,Nagpur,21-Feb-02,-1
+464,Test # 1591,36,124,119,5,0,30.25,4,lbw,2,1,0,6,0,6,7,1,1,1,Test v Zimbabwe,Delhi,28-Feb-02,36
+465,Test # 1591,42,78,52,7,1,80.76,5,lbw,4,-1,-,-,-,-,-,3,0,3,Test v Zimbabwe,Delhi,28-Feb-02,42
+466,Test # 1598,79,191,136,13,0,58.08,4,lbw,2,3,0,18,0,6,7,1,0,1,Test v West Indies,Georgetown,11-Apr-02,79
+467,Test # 1598,-1,-,-,-,-,-,-,-,4,-1,-,-,-,-,-,3,0,3,Test v West Indies,Georgetown,11-Apr-02,-1
+468,Test # 1599,117,356,260,14,0,45,4,lbw,1,-1,-,-,-,-,-,2,1,2,Test v West Indies,Port of Spain,19-Apr-02,117
+469,Test # 1599,0,16,4,0,0,0,4,lbw,3,1,0,6,0,6,5,4,0,4,Test v West Indies,Port of Spain,19-Apr-02,0
+470,Test # 1601,0,4,2,0,0,0,4,caught,1,1,0,7,0,7,6,2,1,2,Test v West Indies,Bridgetown,02-May-02,0
+471,Test # 1601,8,32,17,1,0,47.05,4,lbw,3,1,0,1,0,1,1,4,0,4,Test v West Indies,Bridgetown,02-May-02,8
+472,Test # 1602,0,2,1,0,0,0,4,caught,1,34,4,107,2,3.14,5,2,0,2,Test v West Indies,St John's,10-May-02,0
+473,Test # 1602,-1,-,-,-,-,-,-,-,3,-1,-,-,-,-,-,4,0,4,Test v West Indies,St John's,10-May-02,-1
+474,Test # 1604,41,94,63,7,0,65.07,4,bowled,2,-1,-,-,-,-,-,1,0,1,Test v West Indies,Kingston,18-May-02,41
+475,Test # 1604,86,162,139,13,0,61.87,4,bowled,4,-1,-,-,-,-,-,3,0,3,Test v West Indies,Kingston,18-May-02,86
+476,ODI # 1836,34,64,45,2,0,75.55,4,not out,2,-1,-,-,-,-,-,1,0,1,ODI v West Indies,Bridgetown,29-May-02,34
+477,ODI # 1838,65,110,70,3,1,92.85,4,bowled,1,3,0,20,1,6.66,6,2,0,2,ODI v West Indies,Port of Spain,02-Jun-02,65
+478,ODI # 1848,1,12,9,0,0,11.11,4,lbw,2,-1,-,-,-,-,-,1,0,1,ODI v England,Lord's,29-Jun-02,1
+479,ODI # 1849,49,123,70,3,1,70,4,caught,2,-1,-,-,-,-,-,1,0,1,ODI v Sri Lanka,The Oval,30-Jun-02,49
+480,ODI # 1851,105,167,108,8,1,97.22,4,not out,1,-1,-,-,-,-,-,2,0,2,ODI v England,Chester-le-Street,04-Jul-02,105
+481,ODI # 1852,19,35,25,3,0,76,4,caught,2,5,0,18,0,3.6,5,1,0,1,ODI v Sri Lanka,Birmingham,06-Jul-02,19
+482,ODI # 1854,36,60,29,5,0,124.13,4,caught,2,1,0,9,0,9,8,1,0,1,ODI v England,The Oval,09-Jul-02,36
+483,ODI # 1855,113,141,102,12,1,110.78,4,caught,1,-1,-,-,-,-,-,2,0,2,ODI v Sri Lanka,Bristol,11-Jul-02,113
+484,ODI # 1856,14,31,19,1,0,73.68,4,bowled,2,-1,-,-,-,-,-,1,0,1,ODI v England,Lord's,13-Jul-02,14
+485,Test # 1610,16,94,61,2,0,26.22,5,caught,2,-1,-,-,-,-,-,1,0,1,Test v England,Lord's,25-Jul-02,16
+486,Test # 1610,12,51,35,2,0,34.28,4,bowled,4,2,0,14,0,7,5,3,1,3,Test v England,Lord's,25-Jul-02,12
+487,Test # 1612,34,90,68,6,0,50,4,bowled,1,6,0,15,0,2.5,6,2,0,2,Test v England,Nottingham,08-Aug-02,34
+488,Test # 1612,92,160,113,17,0,81.41,4,bowled,3,-1,-,-,-,-,-,4,0,4,Test v England,Nottingham,08-Aug-02,92
+489,Test # 1613,193,434,330,19,3,58.48,4,lbw,1,-1,-,-,-,-,-,2,0,2,Test v England,Leeds,22-Aug-02,193
+490,Test # 1613,-1,-,-,-,-,-,-,-,3,-1,-,-,-,-,-,3,0,3,Test v England,Leeds,22-Aug-02,-1
+491,Test # 1614,54,114,89,10,0,60.67,4,lbw,2,2,0,4,0,2,7,1,0,1,Test v England,The Oval,05-Sep-02,54
+492,Test # 1614,-1,-,-,-,-,-,-,-,4,-1,-,-,-,-,-,3,0,3,Test v England,The Oval,05-Sep-02,-1
+493,ODI # 1876,7,39,16,0,0,43.75,4,caught,1,7,0,41,2,5.85,6,2,0,2,ODI v Zimbabwe,Colombo (RPS),14-Sep-02,7
+494,ODI # 1884,9,34,20,0,0,45,4,not out,2,2,0,13,1,6.5,6,1,0,1,ODI v England,Colombo (RPS),22-Sep-02,9
+495,ODI # 1886,16,39,29,1,0,55.17,4,run out,1,4,0,32,0,8,7,2,0,2,ODI v South Africa,Colombo (RPS),25-Sep-02,16
+496,ODI # 1888,-1,-,-,-,-,-,-,-,2,6,0,36,1,6,6,1,1,1,ODI v Sri Lanka,Colombo (RPS),29-Sep-02,-1
+497,ODI # 1889,7,33,22,1,0,31.81,3,not out,2,8,0,36,0,4.5,6,1,0,1,ODI v Sri Lanka,Colombo (RPS),30-Sep-02,7
+498,Test # 1616,35,96,88,5,0,39.77,4,caught,1,-1,-,-,-,-,-,2,0,2,Test v West Indies,Wankhede,09-Oct-02,35
+499,Test # 1616,-1,-,-,-,-,-,-,-,3,1,0,2,0,2,6,3,1,3,Test v West Indies,Wankhede,09-Oct-02,-1
+500,Test # 1618,43,156,113,5,0,38.05,4,bowled,2,-1,-,-,-,-,-,1,1,1,Test v West Indies,Chennai,17-Oct-02,43
+501,Test # 1618,16,15,20,0,0,80,4,not out,4,-1,-,-,-,-,-,3,0,3,Test v West Indies,Chennai,17-Oct-02,16
+502,Test # 1622,36,85,65,7,0,55.38,4,caught,1,7,0,33,0,4.71,6,2,0,2,Test v West Indies,Eden Gardens,30-Oct-02,36
+503,Test # 1622,176,419,298,26,0,59.06,4,caught,3,-1,-,-,-,-,-,4,0,4,Test v West Indies,Eden Gardens,30-Oct-02,176
+504,Test # 1631,8,47,26,2,0,30.76,4,lbw,1,-1,-,-,-,-,-,2,0,2,Test v New Zealand,Wellington,12-Dec-02,8
+505,Test # 1631,51,120,74,7,0,68.91,4,bowled,3,-1,-,-,-,-,-,4,0,4,Test v New Zealand,Wellington,12-Dec-02,51
+506,Test # 1633,9,40,31,1,0,29.03,4,caught,1,-1,-,-,-,-,-,2,1,2,Test v New Zealand,Hamilton,19-Dec-02,9
+507,Test # 1633,32,55,48,5,0,66.66,4,bowled,3,-1,-,-,-,-,-,4,0,4,Test v New Zealand,Hamilton,19-Dec-02,32
+508,ODI # 1930,0,9,10,0,0,0,4,lbw,2,-1,-,-,-,-,-,1,0,1,ODI v New Zealand,Wellington,08-Jan-03,0
+509,ODI # 1933,1,21,13,0,0,7.69,4,caught,2,-1,-,-,-,-,-,1,0,1,ODI v New Zealand,Auckland,11-Jan-03,1
+510,ODI # 1935,1,7,6,0,0,16.66,3,caught,1,-1,-,-,-,-,-,2,0,2,ODI v New Zealand,Hamilton,14-Jan-03,1
+511,ODI # 1948,52,91,72,7,0,72.22,2,caught,1,4,0,9,0,2.25,6,2,0,2,ODI v Netherlands,Paarl,12-Feb-03,52
+512,ODI # 1951,36,127,59,3,0,61.01,2,lbw,1,-1,-,-,-,-,-,2,0,2,ODI v Australia,Centurion,15-Feb-03,36
+513,ODI # 1957,81,122,91,10,0,89.01,2,bowled,1,-1,-,-,-,-,-,2,0,2,ODI v Zimbabwe,Harare,19-Feb-03,81
+514,ODI # 1964,152,193,151,18,0,100.66,2,bowled,1,-1,-,-,-,-,-,2,0,2,ODI v Namibia,Pietermaritzburg,23-Feb-03,152
+515,ODI # 1969,50,78,52,8,1,96.15,2,caught,1,-1,-,-,-,-,-,2,1,2,ODI v England,Durban,26-Feb-03,50
+516,ODI # 1975,98,145,75,12,1,130.66,1,caught,2,-1,-,-,-,-,-,1,0,1,ODI v Pakistan,Centurion,01-Mar-03,98
+517,ODI # 1983,5,21,12,1,0,41.66,2,caught,2,-1,-,-,-,-,-,1,1,1,ODI v Kenya,Cape Town,07-Mar-03,5
+518,ODI # 1985,97,160,120,7,1,80.83,1,caught,1,-1,-,-,-,-,-,2,1,2,ODI v Sri Lanka,Johannesburg,10-Mar-03,97
+519,ODI # 1988,15,25,16,3,0,93.75,2,caught,2,5,0,20,0,4,6,1,1,1,ODI v New Zealand,Centurion,14-Mar-03,15
+520,ODI # 1992,83,166,101,5,1,82.17,2,caught,1,6,0,28,2,4.66,7,2,0,2,ODI v Kenya,Durban,20-Mar-03,83
+521,ODI # 1993,4,2,5,1,0,80,1,caught,2,3,0,20,0,6.66,6,1,0,1,ODI v Australia,Johannesburg,23-Mar-03,4
+522,Test # 1660,8,54,38,1,0,21.05,4,caught,1,3,2,5,0,1.66,6,2,0,2,Test v New Zealand,Ahmedabad,08-Oct-03,8
+523,Test # 1660,7,19,15,0,0,46.66,4,caught,3,7,0,40,0,5.71,5,4,0,4,Test v New Zealand,Ahmedabad,08-Oct-03,7
+524,Test # 1662,55,238,175,6,0,31.42,4,caught,2,22,3,55,1,2.5,3,1,0,1,Test v New Zealand,Mohali,16-Oct-03,55
+525,Test # 1662,1,15,10,0,0,10,4,bowled,3,-1,-,-,-,-,-,3,0,3,Test v New Zealand,Mohali,16-Oct-03,1
+526,ODI # 2051,48,119,66,5,0,72.72,2,not out,1,TDNB,-,-,-,-,-,-,-,-,ODI v New Zealand,Chennai,23-Oct-03,48
+527,ODI # 2052,100,158,119,9,1,84.03,2,caught,1,6,0,39,1,6.5,5,2,0,2,ODI v Australia,Gwalior,26-Oct-03,100
+528,ODI # 2054,68,113,76,10,0,89.47,2,bowled,2,4,0,21,0,5.25,6,1,0,1,ODI v Australia,Wankhede,01-Nov-03,68
+529,ODI # 2056,14,29,14,3,0,100,2,lbw,1,3,0,25,0,8.33,5,2,0,2,ODI v New Zealand,Cuttack,06-Nov-03,14
+530,ODI # 2061,89,133,91,12,1,97.8,2,bowled,2,-1,-,-,-,-,-,1,0,1,ODI v Australia,Bengaluru,12-Nov-03,89
+531,ODI # 2062,102,124,91,12,1,112.08,2,caught,1,8,0,40,0,5,3,2,0,2,ODI v New Zealand,Hyderabad (Deccan),15-Nov-03,102
+532,ODI # 2064,45,104,66,5,0,68.18,1,bowled,2,-1,-,-,-,-,-,1,0,1,ODI v Australia,Eden Gardens,18-Nov-03,45
+533,Test # 1671,0,3,3,0,0,0,4,lbw,2,-1,-,-,-,-,-,1,0,1,Test v Australia,Brisbane,04-Dec-03,0
+534,Test # 1671,-1,-,-,-,-,-,-,-,4,2,0,9,0,4.5,5,3,0,3,Test v Australia,Brisbane,04-Dec-03,-1
+535,Test # 1673,1,15,6,0,0,16.66,4,caught,2,1,0,3,0,3,6,1,0,1,Test v Australia,Adelaide,12-Dec-03,1
+536,Test # 1673,37,79,59,5,0,62.71,4,lbw,4,6,0,36,2,6,5,3,0,3,Test v Australia,Adelaide,12-Dec-03,37
+537,Test # 1678,0,3,1,0,0,0,4,caught,1,13,0,57,1,4.38,5,2,2,2,Test v Australia,Melbourne,26-Dec-03,0
+538,Test # 1678,44,107,79,5,0,55.69,5,caught,3,-1,-,-,-,-,-,4,0,4,Test v Australia,Melbourne,26-Dec-03,44
+539,Test # 1680,241,613,436,33,0,55.27,4,not out,1,-1,-,-,-,-,-,2,0,2,Test v Australia,Sydney,02-Jan-04,241
+540,Test # 1680,60,108,89,5,0,67.41,4,not out,3,6,0,36,0,6,5,4,1,4,Test v Australia,Sydney,02-Jan-04,60
+541,ODI # 2077,63,117,69,8,1,91.3,2,caught,2,-1,-,-,-,-,-,1,1,1,ODI v Australia,Melbourne,09-Jan-04,63
+542,ODI # 2080,44,107,59,6,0,74.57,2,bowled,2,-1,-,-,-,-,-,1,0,1,ODI v Zimbabwe,Hobart,14-Jan-04,44
+543,ODI # 2084,86,129,95,8,0,90.52,2,caught,1,-1,-,-,-,-,-,2,0,2,ODI v Australia,Brisbane,18-Jan-04,86
+544,ODI # 2093,5,17,6,1,0,83.33,2,caught,1,-1,-,-,-,-,-,2,0,2,ODI v Australia,W.A.C.A,01-Feb-04,5
+545,ODI # 2095,3,16,8,0,0,37.5,2,caught,2,-1,-,-,-,-,-,1,0,1,ODI v Zimbabwe,W.A.C.A,03-Feb-04,3
+546,ODI # 2097,8,28,22,1,0,36.36,2,bowled,1,-1,-,-,-,-,-,2,1,2,ODI v Australia,Melbourne,06-Feb-04,8
+547,ODI # 2098,27,38,40,4,0,67.5,2,caught,2,8,0,60,1,7.5,7,1,0,1,ODI v Australia,Sydney,08-Feb-04,27
+548,ODI # 2112,28,49,35,4,1,80,2,caught,1,3,0,34,0,11.33,6,2,0,2,ODI v Pakistan,Karachi,13-Mar-04,28
+549,ODI # 2114,141,173,135,17,1,104.44,2,caught,2,6,0,45,0,7.5,7,1,0,1,ODI v Pakistan,Rawalpindi,16-Mar-04,141
+550,ODI # 2115,0,7,5,0,0,0,2,caught,1,8,1,31,1,3.87,6,2,0,2,ODI v Pakistan,Peshawar,19-Mar-04,0
+551,ODI # 2116,7,22,13,1,0,53.84,2,caught,2,8,0,48,1,6,5,1,0,1,ODI v Pakistan,Lahore,21-Mar-04,7
+552,ODI # 2117,37,60,48,7,0,77.08,2,caught,1,5,0,27,0,5.4,5,2,1,2,ODI v Pakistan,Lahore,24-Mar-04,37
+553,Test # 1693,194,493,348,21,0,55.74,4,not out,1,14,1,36,2,2.57,6,2,1,2,Test v Pakistan,Multan,28-Mar-04,194
+554,Test # 1693,-1,-,-,-,-,-,-,-,3,6,2,23,0,3.83,6,3,0,3,Test v Pakistan,Multan,28-Mar-04,-1
+555,Test # 1695,2,10,6,0,0,33.33,4,lbw,1,12,1,38,1,3.16,5,2,0,2,Test v Pakistan,Lahore,05-Apr-04,2
+556,Test # 1695,8,17,11,1,0,72.72,4,lbw,3,-1,-,-,-,-,-,4,0,4,Test v Pakistan,Lahore,05-Apr-04,8
+557,Test # 1697,1,6,3,0,0,33.33,4,caught,2,-1,-,-,-,-,-,1,0,1,Test v Pakistan,Rawalpindi,13-Apr-04,1
+558,Test # 1697,-1,-,-,-,-,-,-,-,4,1,0,1,1,1,6,3,0,3,Test v Pakistan,Rawalpindi,13-Apr-04,-1
+559,ODI # 2144,18,39,25,2,0,72,2,caught,1,4,0,21,3,5.25,5,2,0,2,ODI v U.A.E.,Dambulla,16-Jul-04,18
+560,ODI # 2148,11,17,13,2,0,84.61,1,caught,2,-1,-,-,-,-,-,1,0,1,ODI v Sri Lanka,Dambulla,18-Jul-04,11
+561,ODI # 2149,82,157,126,10,1,65.07,2,not out,2,10,0,35,3,3.5,5,1,0,1,ODI v Bangladesh,Colombo (SSC),21-Jul-04,82
+562,ODI # 2152,78,192,103,6,0,75.72,2,caught,2,5,0,28,3,5.6,6,1,0,1,ODI v Pakistan,Colombo (RPS),25-Jul-04,78
+563,ODI # 2153,18,30,21,3,0,85.71,1,lbw,1,3,0,23,1,7.66,6,2,1,2,ODI v Sri Lanka,Colombo (RPS),27-Jul-04,18
+564,ODI # 2155,74,170,100,7,1,74,2,bowled,2,10,0,40,2,4,6,1,0,1,ODI v Sri Lanka,Colombo (RPS),01-Aug-04,74
+565,Test # 1718,8,49,36,0,0,22.22,4,lbw,2,6,1,29,0,4.83,5,1,0,1,Test v Australia,Nagpur,26-Oct-04,8
+566,Test # 1718,2,18,14,0,0,14.28,4,caught,4,8,1,12,0,1.5,4,3,0,3,Test v Australia,Nagpur,26-Oct-04,2
+567,Test # 1720,5,43,35,0,0,14.28,4,caught,1,-1,-,-,-,-,-,2,0,2,Test v Australia,Wankhede,03-Nov-04,5
+568,Test # 1720,55,120,83,6,1,66.26,4,caught,3,-1,-,-,-,-,-,4,1,4,Test v Australia,Wankhede,03-Nov-04,55
+569,ODI # 2192,16,30,17,2,0,94.11,2,run out,1,1,0,15,0,15,6,2,0,2,ODI v Pakistan,Eden Gardens,13-Nov-04,16
+570,Test # 1722,3,21,18,0,0,16.66,4,bowled,2,9,0,36,0,4,6,1,0,1,Test v South Africa,Kanpur,20-Nov-04,3
+571,Test # 1722,-1,-,-,-,-,-,-,-,4,5,0,18,0,3.6,5,3,0,3,Test v South Africa,Kanpur,20-Nov-04,-1
+572,Test # 1724,20,82,54,3,0,37.03,4,bowled,2,3,0,8,0,2.66,6,1,0,1,Test v South Africa,Eden Gardens,28-Nov-04,20
+573,Test # 1724,32,73,64,3,1,50,4,not out,4,-1,-,-,-,-,-,3,0,3,Test v South Africa,Eden Gardens,28-Nov-04,32
+574,Test # 1725,248,552,379,35,0,65.43,4,not out,2,-1,-,-,-,-,-,1,1,1,Test v Bangladesh,Dhaka,10-Dec-04,248
+575,Test # 1725,-1,-,-,-,-,-,-,-,4,-1,-,-,-,-,-,3,1,3,Test v Bangladesh,Dhaka,10-Dec-04,-1
+576,Test # 1727,36,79,55,6,0,65.45,4,lbw,1,2,0,12,0,6,5,2,0,2,Test v Bangladesh,Chattogram,17-Dec-04,36
+577,Test # 1727,-1,-,-,-,-,-,-,-,3,3,0,27,1,9,5,3,0,3,Test v Bangladesh,Chattogram,17-Dec-04,-1
+578,ODI # 2199,19,46,32,3,0,59.37,2,caught,1,-1,-,-,-,-,-,2,0,2,ODI v Bangladesh,Chattogram,23-Dec-04,19
+579,ODI # 2202,47,60,42,9,0,111.9,2,caught,1,9,2,54,4,6,7,2,0,2,ODI v Bangladesh,Dhaka,27-Dec-04,47
+580,Test # 1738,94,301,202,11,0,46.53,4,caught,2,-1,-,-,-,-,-,1,0,1,Test v Pakistan,Mohali,08-Mar-05,94
+581,Test # 1738,-1,-,-,-,-,-,-,-,4,8,0,30,0,3.75,5,3,0,3,Test v Pakistan,Mohali,08-Mar-05,-1
+582,Test # 1741,52,147,102,9,0,50.98,4,caught,1,-1,-,-,-,-,-,2,2,2,Test v Pakistan,Eden Gardens,16-Mar-05,52
+583,Test # 1741,52,117,91,9,0,57.14,4,caught,3,-1,-,-,-,-,-,4,0,4,Test v Pakistan,Eden Gardens,16-Mar-05,52
+584,Test # 1743,41,78,71,7,0,57.74,4,caught,2,3,0,14,0,4.66,5,1,0,1,Test v Pakistan,Bengaluru,24-Mar-05,41
+585,Test # 1743,16,140,98,2,0,16.32,4,caught,4,15,1,62,1,4.13,4,3,0,3,Test v Pakistan,Bengaluru,24-Mar-05,16
+586,ODI # 2235,4,8,4,1,0,100,2,caught,1,10,1,50,5,5,5,2,1,2,ODI v Pakistan,Kochi,02-Apr-05,4
+587,ODI # 2236,2,17,8,0,0,25,2,run out,1,7,0,44,0,6.28,4,2,0,2,ODI v Pakistan,Visakhapatnam,05-Apr-05,2
+588,ODI # 2237,6,15,11,1,0,54.54,2,caught,2,4,0,25,0,6.25,5,1,1,1,ODI v Pakistan,Jamshedpur,09-Apr-05,6
+589,ODI # 2238,123,192,130,12,2,94.61,2,bowled,1,6,0,36,1,6,7,2,1,2,ODI v Pakistan,Ahmedabad,12-Apr-05,123
+590,ODI # 2239,1,13,10,0,0,10,2,caught,1,3,0,20,1,6.66,6,2,0,2,ODI v Pakistan,Kanpur,15-Apr-05,1
+591,ODI # 2240,9,38,15,0,0,60,2,bowled,2,5,0,24,0,4.8,6,1,0,1,ODI v Pakistan,Delhi,17-Apr-05,9
+592,ODI # 2286,93,149,96,9,2,96.87,2,caught,1,-1,-,-,-,-,-,2,0,2,ODI v Sri Lanka,Nagpur,25-Oct-05,93
+593,ODI # 2287,67,87,69,11,0,97.1,2,not out,2,-1,-,-,-,-,-,1,1,1,ODI v Sri Lanka,Mohali,28-Oct-05,67
+594,ODI # 2290,2,2,3,0,0,66.66,2,caught,2,1,0,10,0,10,7,1,0,1,ODI v Sri Lanka,Jaipur,31-Oct-05,2
+595,ODI # 2291,11,28,19,1,1,57.89,2,bowled,2,-1,-,-,-,-,-,1,1,1,ODI v Sri Lanka,Pune,03-Nov-05,11
+596,ODI # 2295,19,46,30,3,0,63.33,2,caught,2,-1,-,-,-,-,-,1,1,1,ODI v Sri Lanka,Rajkot,09-Nov-05,19
+597,ODI # 2296,39,76,48,8,0,81.25,2,caught,2,-1,-,-,-,-,-,1,0,1,ODI v Sri Lanka,Vadodara,12-Nov-05,39
+598,ODI # 2297,2,20,9,0,0,22.22,2,caught,1,8,0,43,1,5.37,6,2,0,2,ODI v South Africa,Hyderabad,16-Nov-05,2
+599,ODI # 2298,2,31,22,0,0,9.09,2,caught,2,-1,-,-,-,-,-,1,0,1,ODI v South Africa,Bengaluru,19-Nov-05,2
+600,ODI # 2299,2,18,15,0,0,13.33,3,caught,1,-1,-,-,-,-,-,2,0,2,ODI v South Africa,Eden Gardens,25-Nov-05,2
+601,ODI # 2300,30,77,44,5,0,68.18,2,caught,2,-1,-,-,-,-,-,1,0,1,ODI v South Africa,Wankhede,28-Nov-05,30
+602,Test # 1775,22,157,126,2,0,17.46,4,lbw,1,-1,-,-,-,-,-,2,0,2,Test v Sri Lanka,Chennai,02-Dec-05,22
+603,Test # 1775,-1,-,-,-,-,-,-,-,3,-1,-,-,-,-,-,4,0,4,Test v Sri Lanka,Chennai,02-Dec-05,-1
+604,Test # 1776,109,310,196,14,1,55.61,4,lbw,1,2,0,6,0,3,5,2,0,2,Test v Sri Lanka,Delhi,10-Dec-05,109
+605,Test # 1776,16,42,28,3,0,57.14,4,lbw,3,-1,-,-,-,-,-,4,0,4,Test v Sri Lanka,Delhi,10-Dec-05,16
+606,Test # 1778,23,85,66,2,0,34.84,4,caught,1,-1,-,-,-,-,-,2,0,2,Test v Sri Lanka,Ahmedabad,18-Dec-05,23
+607,Test # 1778,19,40,29,3,0,65.51,4,lbw,3,4,0,13,0,3.25,6,4,0,4,Test v Sri Lanka,Ahmedabad,18-Dec-05,19
+608,Test # 1781,-1,-,-,-,-,-,-,-,2,2,0,16,0,8,7,1,0,1,Test v Pakistan,Lahore,13-Jan-06,-1
+609,Test # 1781,-1,-,-,-,-,-,-,-,4,-1,-,-,-,-,-,3,0,3,Test v Pakistan,Lahore,13-Jan-06,-1
+610,Test # 1782,14,64,33,3,0,42.42,4,caught,2,-1,-,-,-,-,-,1,0,1,Test v Pakistan,Faisalabad,21-Jan-06,14
+611,Test # 1782,-1,-,-,-,-,-,-,-,4,-1,-,-,-,-,-,3,1,3,Test v Pakistan,Faisalabad,21-Jan-06,-1
+612,Test # 1783,23,49,29,5,0,79.31,4,bowled,2,-1,-,-,-,-,-,1,0,1,Test v Pakistan,Karachi,29-Jan-06,23
+613,Test # 1783,26,74,47,5,0,55.31,4,bowled,4,9,0,40,0,4.44,7,3,3,3,Test v Pakistan,Karachi,29-Jan-06,26
+614,ODI # 2324,100,188,113,10,1,88.49,2,lbw,1,-1,-,-,-,-,-,2,0,2,ODI v Pakistan,Peshawar,06-Feb-06,100
+615,ODI # 2327,42,71,43,8,0,97.67,2,caught,2,7,0,45,0,6.42,5,1,0,1,ODI v Pakistan,Rawalpindi,11-Feb-06,42
+616,ODI # 2329,95,157,104,16,1,91.34,2,caught,2,10,0,52,1,5.2,5,1,0,1,ODI v Pakistan,Lahore,13-Feb-06,95
+617,ODI # 2331,0,7,3,0,0,0,2,caught,2,9,0,27,1,3,5,1,0,1,ODI v Pakistan,Multan,16-Feb-06,0
+618,Test # 1785,16,84,45,2,0,35.55,4,lbw,2,2,0,11,0,5.5,5,1,0,1,Test v England,Nagpur,01-Mar-06,16
+619,Test # 1785,28,38,19,5,0,147.36,6,not out,4,-1,-,-,-,-,-,3,0,3,Test v England,Nagpur,01-Mar-06,28
+620,Test # 1788,4,20,15,0,0,26.66,4,caught,2,-1,-,-,-,-,-,1,0,1,Test v England,Mohali,09-Mar-06,4
+621,Test # 1788,-1,-,-,-,-,-,-,-,4,-1,-,-,-,-,-,3,0,3,Test v England,Mohali,09-Mar-06,-1
+622,Test # 1791,1,33,21,0,0,4.76,4,caught,2,-1,-,-,-,-,-,1,1,1,Test v England,Wankhede,18-Mar-06,1
+623,Test # 1791,34,77,57,5,0,59.64,5,caught,4,-1,-,-,-,-,-,3,0,3,Test v England,Wankhede,18-Mar-06,34
+624,ODI # 2405,2,16,3,0,0,66.66,2,not out,1,TDNB,-,-,-,-,-,-,-,-,ODI v Sri Lanka,Colombo (SSC),18-Aug-06,2
+625,ODI # 2414,141,-,148,13,5,95.27,2,not out,1,-1,-,-,-,-,-,2,0,2,ODI v West Indies,Kuala Lumpur,14-Sep-06,141
+626,ODI # 2416,12,30,17,2,0,70.58,2,caught,2,-1,-,-,-,-,-,1,1,1,ODI v Australia,Kuala Lumpur,16-Sep-06,12
+627,ODI # 2419,65,154,102,7,0,63.72,2,run out,1,-1,-,-,-,-,-,2,0,2,ODI v West Indies,Kuala Lumpur,20-Sep-06,65
+628,ODI # 2421,4,11,10,1,0,40,2,caught,2,-1,-,-,-,-,-,1,0,1,ODI v Australia,Kuala Lumpur,22-Sep-06,4
+629,ODI # 2429,35,87,41,5,0,85.36,2,lbw,2,-1,-,-,-,-,-,1,1,1,ODI v England,Jaipur,15-Oct-06,35
+630,ODI # 2437,29,81,45,4,0,64.44,2,bowled,1,-1,-,-,-,-,-,2,0,2,ODI v West Indies,Ahmedabad,26-Oct-06,29
+631,ODI # 2440,10,46,26,2,0,38.46,2,caught,1,-1,-,-,-,-,-,2,1,2,ODI v Australia,Mohali,29-Oct-06,10
+632,ODI # 2447,35,79,51,5,0,68.62,2,bowled,2,9,1,33,0,3.66,4,1,1,1,ODI v South Africa,Durban,22-Nov-06,35
+633,ODI # 2449,2,20,9,0,0,22.22,2,caught,2,3,0,13,0,4.33,6,1,2,1,ODI v South Africa,Cape Town,26-Nov-06,2
+634,ODI # 2452,1,4,3,0,0,33.33,3,caught,2,8,0,46,1,5.75,7,1,0,1,ODI v South Africa,Gqeberha,29-Nov-06,1
+635,T20I # 10,10,18,12,2,0,83.33,2,bowled,2,2.3,0,12,1,4.8,5,1,1,1,T20I v South Africa,Johannesburg,01-Dec-06,10
+636,ODI # 2458,55,134,97,8,0,56.7,2,caught,1,-1,-,-,-,-,-,2,0,2,ODI v South Africa,Centurion,03-Dec-06,55
+637,Test # 1823,44,113,89,7,0,49.43,4,caught,1,-1,-,-,-,-,-,2,0,2,Test v South Africa,Johannesburg,15-Dec-06,44
+638,Test # 1823,14,43,22,3,0,63.63,4,bowled,3,-1,-,-,-,-,-,4,1,4,Test v South Africa,Johannesburg,15-Dec-06,14
+639,Test # 1825,63,173,115,11,0,54.78,4,caught,2,-1,-,-,-,-,-,1,2,1,Test v South Africa,Durban,26-Dec-06,63
+640,Test # 1825,0,13,7,0,0,0,4,lbw,4,-1,-,-,-,-,-,3,0,3,Test v South Africa,Durban,26-Dec-06,0
+641,Test # 1827,64,187,130,11,0,49.23,4,caught,1,10,2,30,1,3,6,2,0,2,Test v South Africa,Cape Town,02-Jan-07,64
+642,Test # 1827,14,88,62,1,0,22.58,5,lbw,3,3.1,2,3,0,0.94,6,4,0,4,Test v South Africa,Cape Town,02-Jan-07,14
+643,ODI # 2480,31,54,38,3,0,81.57,3,lbw,1,10,0,54,1,5.4,5,2,0,2,ODI v West Indies,Nagpur,21-Jan-07,31
+644,ODI # 2485,0,6,6,0,0,0,4,caught,1,8,0,25,2,3.12,6,2,0,2,ODI v West Indies,Cuttack,24-Jan-07,0
+645,ODI # 2487,60,112,66,2,0,90.9,4,caught,1,5,0,33,0,6.6,5,2,0,2,ODI v West Indies,Chennai,27-Jan-07,60
+646,ODI # 2493,100,110,76,10,1,131.57,4,not out,1,-1,-,-,-,-,-,2,0,2,ODI v West Indies,Vadodara,31-Jan-07,100
+647,ODI # 2514,TDNB,-,-,-,-,-,-,-,-,-1,-,-,-,-,-,1,0,1,ODI v Sri Lanka,Eden Gardens,08-Feb-07,TDNB
+648,ODI # 2520,54,94,61,9,0,88.52,4,stumped,2,9,0,41,1,4.55,6,1,1,1,ODI v Sri Lanka,Rajkot,11-Feb-07,54
+649,ODI # 2522,1,13,8,0,0,12.5,3,bowled,2,4,0,33,0,8.25,5,1,1,1,ODI v Sri Lanka,Margao,14-Feb-07,1
+650,ODI # 2538,7,40,26,1,0,26.92,4,caught,1,3,0,8,0,2.66,5,2,0,2,ODI v Bangladesh,Port of Spain,17-Mar-07,7
+651,ODI # 2542,57,46,29,2,4,196.55,6,not out,1,1,0,1,1,1,6,2,0,2,ODI v Bermuda,Port of Spain,19-Mar-07,57
+652,ODI # 2550,0,5,3,0,0,0,4,bowled,2,8,0,40,1,5,6,1,0,1,ODI v Sri Lanka,Port of Spain,23-Mar-07,0
+653,Test # 1832,101,274,169,9,0,59.76,4,caught,1,4,0,15,1,3.75,5,2,2,2,Test v Bangladesh,Chattogram,18-May-07,101
+654,Test # 1832,31,69,50,2,0,62,4,bowled,3,3,0,7,0,2.33,5,4,0,4,Test v Bangladesh,Chattogram,18-May-07,31
+655,Test # 1833,122,354,226,8,1,53.98,4,not out,1,-1,-,-,-,-,-,2,0,2,Test v Bangladesh,Mirpur,25-May-07,122
+656,Test # 1833,-1,-,-,-,-,-,-,-,3,6.3,1,35,2,5.38,6,3,2,3,Test v Bangladesh,Mirpur,25-May-07,-1
+657,ODI # 2590,4,4,3,1,0,133.33,2,bowled,2,4,0,24,1,6,6,1,0,1,ODI v Ireland,Belfast,23-Jun-07,4
+658,ODI # 2592,99,199,143,12,0,69.23,2,run out,1,-1,-,-,-,-,-,2,1,2,ODI v South Africa,Belfast,26-Jun-07,99
+659,ODI # 2593,93,140,106,13,2,87.73,2,bowled,2,1,0,10,0,10,6,1,0,1,ODI v South Africa,Belfast,29-Jun-07,93
+660,ODI # 2595,8,10,8,2,0,100,2,caught,2,1,0,10,2,10,7,1,0,1,ODI v South Africa,Belfast,01-Jul-07,8
+661,Test # 1840,37,104,78,6,0,47.43,4,lbw,2,2,0,8,0,4,6,1,0,1,Test v England,Lord's,19-Jul-07,37
+662,Test # 1840,16,42,35,3,0,45.71,4,lbw,4,1,0,2,0,2,5,3,1,3,Test v England,Lord's,19-Jul-07,16
+663,Test # 1841,91,259,197,12,0,46.19,4,lbw,2,2,0,9,0,4.5,6,1,2,1,Test v England,Nottingham,27-Jul-07,91
+664,Test # 1841,1,17,15,0,0,6.66,4,caught,4,7,0,29,0,4.14,6,3,0,3,Test v England,Nottingham,27-Jul-07,1
+665,Test # 1842,82,298,192,11,0,42.7,4,caught,1,7,0,26,1,3.71,6,2,1,2,Test v England,The Oval,09-Aug-07,82
+666,Test # 1842,1,13,11,0,0,9.09,4,bowled,3,19,0,78,0,4.1,5,4,0,4,Test v England,The Oval,09-Aug-07,1
+667,ODI # 2611,17,52,33,1,0,51.51,2,caught,2,4,0,29,0,7.25,6,1,0,1,ODI v England,Southampton,21-Aug-07,17
+668,ODI # 2613,99,158,112,15,1,88.39,2,caught,1,-1,-,-,-,-,-,2,0,2,ODI v England,Bristol,24-Aug-07,99
+669,ODI # 2616,8,42,19,1,0,42.1,2,caught,2,-1,-,-,-,-,-,1,0,1,ODI v England,Birmingham,27-Aug-07,8
+670,ODI # 2617,55,128,86,9,0,63.95,2,caught,1,1,0,4,0,4,7,2,0,2,ODI v England,Manchester,30-Aug-07,55
+671,ODI # 2618,71,87,59,13,0,120.33,2,caught,1,5,0,35,0,7,5,2,0,2,ODI v England,Leeds,02-Sep-07,71
+672,ODI # 2619,94,120,81,16,1,116.04,2,caught,2,1,0,12,0,12,7,1,0,1,ODI v England,The Oval,05-Sep-07,94
+673,ODI # 2620,30,80,46,4,0,65.21,2,caught,1,-1,-,-,-,-,-,2,0,2,ODI v England,Lord's,08-Sep-07,30
+674,ODI # 2621,0,9,6,0,0,0,2,lbw,2,-1,-,-,-,-,-,1,1,1,ODI v Australia,Bengaluru,29-Sep-07,0
+675,ODI # 2623,16,43,25,1,1,64,2,caught,2,3,0,22,0,7.33,6,1,1,1,ODI v Australia,Kochi,02-Oct-07,16
+676,ODI # 2625,43,119,71,6,0,60.56,2,bowled,2,4,0,22,0,5.5,6,1,0,1,ODI v Australia,Hyderabad,05-Oct-07,43
+677,ODI # 2627,79,184,119,7,0,66.38,2,run out,1,-1,-,-,-,-,-,2,0,2,ODI v Australia,Chandigarh,08-Oct-07,79
+678,ODI # 2629,47,128,73,9,0,64.38,2,caught,1,2,0,11,0,5.5,6,2,0,2,ODI v Australia,Vadodara,11-Oct-07,47
+679,ODI # 2631,72,105,72,9,1,100,2,stumped,2,5,0,20,0,4,7,1,1,1,ODI v Australia,Nagpur,14-Oct-07,72
+680,ODI # 2632,21,52,36,4,0,58.33,2,bowled,2,-1,-,-,-,-,-,1,1,1,ODI v Australia,Wankhede,17-Oct-07,21
+681,ODI # 2643,4,14,7,1,0,57.14,2,lbw,2,5,0,32,2,6.4,6,1,0,1,ODI v Pakistan,Guwahati,05-Nov-07,4
+682,ODI # 2644,99,130,91,14,1,108.79,2,caught,1,1,0,11,0,11,6,2,0,2,ODI v Pakistan,Mohali,08-Nov-07,99
+683,ODI # 2645,29,54,27,5,0,107.4,2,caught,1,1,0,11,0,11,7,2,0,2,ODI v Pakistan,Kanpur,11-Nov-07,29
+684,ODI # 2646,97,149,102,16,0,95.09,2,bowled,2,-1,-,-,-,-,-,1,0,1,ODI v Pakistan,Gwalior,15-Nov-07,97
+685,ODI # 2647,30,54,27,6,0,111.11,2,caught,2,-1,-,-,-,-,-,1,0,1,ODI v Pakistan,Jaipur,18-Nov-07,30
+686,Test # 1849,1,2,1,0,0,100,4,run out,2,2,0,4,0,2,6,1,0,1,Test v Pakistan,Delhi,22-Nov-07,1
+687,Test # 1849,56,178,110,9,0,50.9,4,not out,4,2,0,4,0,2,6,3,0,3,Test v Pakistan,Delhi,22-Nov-07,56
+688,Test # 1850,82,146,109,12,0,75.22,4,bowled,1,7,1,32,0,4.57,5,2,0,2,Test v Pakistan,Eden Gardens,30-Nov-07,82
+689,Test # 1850,-1,-,-,-,-,-,-,-,3,3,0,7,0,2.33,5,4,0,4,Test v Pakistan,Eden Gardens,30-Nov-07,-1
+690,Test # 1855,62,113,77,7,1,80.51,4,bowled,2,1,0,2,0,2,6,1,1,1,Test v Australia,Melbourne,26-Dec-07,62
+691,Test # 1855,15,31,21,1,0,71.42,4,caught,4,1,0,2,0,2,5,3,1,3,Test v Australia,Melbourne,26-Dec-07,15
+692,Test # 1857,154,429,243,14,1,63.37,4,not out,2,5,0,14,0,2.8,6,1,3,1,Test v Australia,Sydney,02-Jan-08,154
+693,Test # 1857,12,33,16,3,0,75,4,bowled,4,2,0,6,0,3,5,3,0,3,Test v Australia,Sydney,02-Jan-08,12
+694,Test # 1862,71,175,128,9,0,55.46,4,lbw,1,-1,-,-,-,-,-,2,0,2,Test v Australia,W.A.C.A,16-Jan-08,71
+695,Test # 1862,13,33,25,2,0,52,5,lbw,3,-1,-,-,-,-,-,4,0,4,Test v Australia,W.A.C.A,16-Jan-08,13
+696,Test # 1863,153,342,205,13,3,74.63,4,caught,1,1,0,6,0,6,7,2,0,2,Test v Australia,Adelaide,24-Jan-08,153
+697,Test # 1863,13,67,36,1,0,36.11,4,run out,3,-1,-,-,-,-,-,4,0,4,Test v Australia,Adelaide,24-Jan-08,13
+698,ODI # 2670,10,30,17,1,0,58.82,2,hit wicket,1,-1,-,-,-,-,-,2,0,2,ODI v Australia,Brisbane,03-Feb-08,10
+699,ODI # 2672,35,70,52,2,0,67.3,2,bowled,1,TDNB,-,-,-,-,-,-,-,-,ODI v Sri Lanka,Brisbane,05-Feb-08,35
+700,ODI # 2675,44,123,54,3,0,81.48,2,caught,2,2,0,6,0,3,7,1,2,1,ODI v Australia,Melbourne,10-Feb-08,44
+701,ODI # 2676,32,41,30,4,0,106.66,2,caught,1,2,0,15,0,7.5,5,2,0,2,ODI v Sri Lanka,Canberra,12-Feb-08,32
+702,ODI # 2680,5,23,15,1,0,33.33,2,lbw,2,-1,-,-,-,-,-,1,0,1,ODI v Australia,Adelaide,17-Feb-08,5
+703,ODI # 2681,0,6,2,0,0,0,2,bowled,2,-1,-,-,-,-,-,1,0,1,ODI v Sri Lanka,Adelaide,19-Feb-08,0
+704,ODI # 2685,2,3,3,0,0,66.66,2,lbw,2,-1,-,-,-,-,-,1,0,1,ODI v Australia,Sydney,24-Feb-08,2
+705,ODI # 2686,63,92,54,10,0,116.66,2,caught,2,-1,-,-,-,-,-,1,0,1,ODI v Sri Lanka,Hobart,26-Feb-08,63
+706,ODI # 2688,117,235,120,10,0,97.5,2,not out,2,-1,-,-,-,-,-,1,0,1,ODI v Australia,Sydney,02-Mar-08,117
+707,ODI # 2689,91,176,121,7,0,75.2,2,caught,1,-1,-,-,-,-,-,2,0,2,ODI v Australia,Brisbane,04-Mar-08,91
+708,Test # 1870,0,9,5,0,0,0,4,caught,2,-1,-,-,-,-,-,1,0,1,Test v South Africa,Chennai,26-Mar-08,0
+709,Test # 1870,-1,-,-,-,-,-,-,-,4,-1,-,-,-,-,-,3,0,3,Test v South Africa,Chennai,26-Mar-08,-1
+710,Test # 1882,27,60,46,3,0,58.69,4,bowled,2,-1,-,-,-,-,-,1,0,1,Test v Sri Lanka,Colombo (SSC),23-Jul-08,27
+711,Test # 1882,12,42,30,1,0,40,4,caught,3,-1,-,-,-,-,-,3,0,3,Test v Sri Lanka,Colombo (SSC),23-Jul-08,12
+712,Test # 1884,5,5,3,1,0,166.66,4,lbw,1,-1,-,-,-,-,-,2,0,2,Test v Sri Lanka,Galle,31-Jul-08,5
+713,Test # 1884,31,54,42,5,0,73.8,4,caught,3,-1,-,-,-,-,-,4,0,4,Test v Sri Lanka,Galle,31-Jul-08,31
+714,Test # 1886,6,18,12,0,0,50,4,lbw,1,-1,-,-,-,-,-,2,0,2,Test v Sri Lanka,Colombo (PSS),08-Aug-08,6
+715,Test # 1886,14,26,22,1,0,63.63,6,lbw,3,-1,-,-,-,-,-,4,0,4,Test v Sri Lanka,Colombo (PSS),08-Aug-08,14
+716,Test # 1887,13,26,18,3,0,72.22,4,caught,2,-1,-,-,-,-,-,1,0,1,Test v Australia,Bengaluru,09-Oct-08,13
+717,Test # 1887,49,177,126,4,0,38.88,4,caught,4,-1,-,-,-,-,-,3,0,3,Test v Australia,Bengaluru,09-Oct-08,49
+718,Test # 1889,88,186,111,10,0,79.27,4,caught,1,-1,-,-,-,-,-,2,0,2,Test v Australia,Mohali,17-Oct-08,88
+719,Test # 1889,10,16,12,1,0,83.33,5,not out,3,-1,-,-,-,-,-,4,1,4,Test v Australia,Mohali,17-Oct-08,10
+720,Test # 1891,68,188,126,11,0,53.96,4,caught,1,1,0,2,0,2,6,2,0,2,Test v Australia,Delhi,29-Oct-08,68
+721,Test # 1891,47,159,120,4,0,39.16,5,caught,3,-1,-,-,-,-,-,4,0,4,Test v Australia,Delhi,29-Oct-08,47
+722,Test # 1892,109,274,188,12,0,57.97,4,lbw,1,2,0,13,0,6.5,6,2,0,2,Test v Australia,Nagpur,06-Nov-08,109
+723,Test # 1892,12,90,55,1,0,21.81,4,run out,3,-1,-,-,-,-,-,4,1,4,Test v Australia,Nagpur,06-Nov-08,12
+724,ODI # 2781,11,40,21,2,0,52.38,2,bowled,1,-1,-,-,-,-,-,2,2,2,ODI v England,Bengaluru,23-Nov-08,11
+725,ODI # 2783,50,99,57,6,0,87.71,2,bowled,2,-1,-,-,-,-,-,1,2,1,ODI v England,Cuttack,26-Nov-08,50
+726,Test # 1898,37,90,48,4,1,77.08,4,caught,2,-1,-,-,-,-,-,1,0,1,Test v England,Chennai,11-Dec-08,37
+727,Test # 1898,103,317,196,9,0,52.55,4,not out,4,-1,-,-,-,-,-,3,0,3,Test v England,Chennai,11-Dec-08,103
+728,Test # 1901,11,45,26,1,0,42.3,4,lbw,1,-1,-,-,-,-,-,2,0,2,Test v England,Mohali,19-Dec-08,11
+729,Test # 1901,5,41,22,1,0,22.72,4,caught,3,-1,-,-,-,-,-,4,0,4,Test v England,Mohali,19-Dec-08,5
+730,ODI # 2806,5,15,16,0,0,31.25,2,lbw,2,-1,-,-,-,-,-,1,0,1,ODI v Sri Lanka,Dambulla,28-Jan-09,5
+731,ODI # 2810,6,11,9,0,0,66.66,2,lbw,1,-1,-,-,-,-,-,2,1,2,ODI v Sri Lanka,Colombo (RPS),31-Jan-09,6
+732,ODI # 2813,7,9,12,0,1,58.33,2,lbw,1,1,0,11,0,11,7,2,1,2,ODI v Sri Lanka,Colombo (RPS),03-Feb-09,7
+733,ODI # 2821,20,43,23,2,0,86.95,2,caught,1,-1,-,-,-,-,-,2,1,2,ODI v New Zealand,Napier,03-Mar-09,20
+734,ODI # 2822,61,100,69,7,1,88.4,2,lbw,1,TDNB,-,-,-,-,-,-,-,-,ODI v New Zealand,Wellington,06-Mar-09,61
+735,ODI # 2823,163,206,133,16,5,122.55,2,retired notout,1,-1,-,-,-,-,-,2,0,2,ODI v New Zealand,Christchurch,08-Mar-09,163
+736,Test # 1915,160,397,260,26,0,61.53,4,caught,2,-1,-,-,-,-,-,1,0,1,Test v New Zealand,Hamilton,18-Mar-09,160
+737,Test # 1915,-1,-,-,-,-,-,-,-,4,-1,-,-,-,-,-,3,1,3,Test v New Zealand,Hamilton,18-Mar-09,-1
+738,Test # 1917,49,98,65,7,1,75.38,5,caught,2,-1,-,-,-,-,-,1,1,1,Test v New Zealand,Napier,26-Mar-09,49
+739,Test # 1917,64,167,131,9,1,48.85,4,caught,3,-1,-,-,-,-,-,,0,3,Test v New Zealand,Napier,26-Mar-09,64
+740,Test # 1918,62,108,85,11,0,72.94,4,caught,1,-1,-,-,-,-,-,2,0,2,Test v New Zealand,Wellington,03-Apr-09,62
+741,Test # 1918,9,25,20,0,1,45,4,caught,3,9,0,45,2,5,7,4,0,4,Test v New Zealand,Wellington,03-Apr-09,9
+742,ODI # 2886,46,81,55,6,0,83.63,2,caught,2,-1,-,-,-,-,-,1,0,1,ODI v New Zealand,Colombo (RPS),11-Sep-09,46
+743,ODI # 2887,27,63,33,5,0,81.81,2,caught,2,-1,-,-,-,-,-,1,0,1,ODI v Sri Lanka,Colombo (RPS),12-Sep-09,27
+744,ODI # 2889,138,214,133,10,1,103.75,2,lbw,1,-1,-,-,-,-,-,2,0,2,ODI v Sri Lanka,Colombo (RPS),14-Sep-09,138
+745,ODI # 2898,8,19,14,1,0,57.14,2,caught,2,-1,-,-,-,-,-,1,0,1,ODI v Pakistan,Centurion,26-Sep-09,8
+746,ODI # 2901,TDNB,-,-,-,-,-,-,-,-,-1,-,-,-,-,-,1,1,1,ODI v Australia,Centurion,28-Sep-09,TDNB
+747,ODI # 2913,14,40,29,2,0,48.27,2,caught,2,-1,-,-,-,-,-,1,0,1,ODI v Australia,Vadodara,25-Oct-09,14
+748,ODI # 2915,4,14,8,1,0,50,2,caught,1,-1,-,-,-,-,-,2,1,2,ODI v Australia,Nagpur,28-Oct-09,4
+749,ODI # 2918,32,63,47,2,0,68.08,2,run out,2,-1,-,-,-,-,-,1,0,1,ODI v Australia,Delhi,31-Oct-09,32
+750,ODI # 2919,40,86,68,6,0,58.82,2,lbw,2,-1,-,-,-,-,-,1,0,1,ODI v Australia,Mohali,02-Nov-09,40
+751,ODI # 2923,175,210,141,19,4,124.11,2,caught,2,-1,-,-,-,-,-,1,1,1,ODI v Australia,Hyderabad,05-Nov-09,175
+752,ODI # 2925,10,23,17,2,0,58.82,2,caught,1,0.5,0,11,0,13.2,9,2,0,2,ODI v Australia,Guwahati,08-Nov-09,10
+753,Test # 1933,4,3,3,1,0,133.33,4,bowled,1,7,0,20,0,2.85,6,2,1,2,Test v Sri Lanka,Ahmedabad,16-Nov-09,4
+754,Test # 1933,100,298,211,11,0,47.39,5,not out,3,-1,-,-,-,-,-,4,0,4,Test v Sri Lanka,Ahmedabad,16-Nov-09,100
+755,Test # 1935,40,122,91,0,1,43.95,4,caught,1,-1,-,-,-,-,-,2,1,2,Test v Sri Lanka,Kanpur,24-Nov-09,40
+756,Test # 1935,-1,-,-,-,-,-,-,-,3,1,0,6,0,6,6,3,0,3,Test v Sri Lanka,Kanpur,24-Nov-09,-1
+757,Test # 1937,53,139,103,6,0,51.45,4,bowled,2,-1,-,-,-,-,-,1,0,1,Test v Sri Lanka,Brabourne,02-Dec-09,53
+758,Test # 1937,-1,-,-,-,-,-,-,-,4,-1,-,-,-,-,-,3,0,3,Test v Sri Lanka,Brabourne,02-Dec-09,-1
+759,ODI # 2932,69,91,63,10,1,109.52,2,bowled,1,-1,-,-,-,-,-,2,1,2,ODI v Sri Lanka,Rajkot,15-Dec-09,69
+760,ODI # 2933,43,76,52,4,0,82.69,2,stumped,1,-1,-,-,-,-,-,2,0,2,ODI v Sri Lanka,Nagpur,18-Dec-09,43
+761,ODI # 2934,96,187,104,13,0,92.3,2,not out,2,-1,-,-,-,-,-,1,0,1,ODI v Sri Lanka,Cuttack,21-Dec-09,96
+762,ODI # 2935,8,-,8,2,0,100,2,caught,2,-1,-,-,-,-,-,1,1,1,ODI v Sri Lanka,Eden Gardens,24-Dec-09,8
+763,Test # 1949,105,246,166,11,2,63.25,4,not out,1,-1,-,-,-,-,-,2,0,2,Test v Bangladesh,Chattogram,17-Jan-10,105
+764,Test # 1949,16,47,26,2,0,61.53,5,lbw,3,-1,-,-,-,-,-,4,0,4,Test v Bangladesh,Chattogram,17-Jan-10,16
+765,Test # 1950,143,259,182,13,1,78.57,4,caught,2,-1,-,-,-,-,-,1,0,1,Test v Bangladesh,Mirpur,24-Jan-10,143
+766,Test # 1950,-1,-,-,-,-,-,-,-,4,-1,-,-,-,-,-,3,0,3,Test v Bangladesh,Mirpur,24-Jan-10,-1
+767,Test # 1951,7,25,16,1,0,43.75,4,caught,2,-1,-,-,-,-,-,1,0,1,Test v South Africa,Nagpur,06-Feb-10,7
+768,Test # 1951,100,275,179,13,0,55.86,4,bowled,3,-1,-,-,-,-,-,3,0,0,Test v South Africa,Nagpur,06-Feb-10,100
+769,Test # 1952,106,266,206,12,0,51.45,4,caught,2,-1,-,-,-,-,-,1,0,1,Test v South Africa,Eden Gardens,14-Feb-10,106
+770,Test # 1952,-1,-,-,-,-,-,-,-,4,2,1,1,0,0.5,6,3,0,3,Test v South Africa,Eden Gardens,14-Feb-10,-1
+771,ODI # 2961,4,-,5,1,0,80,2,run out,1,-1,-,-,-,-,-,2,0,2,ODI v South Africa,Jaipur,21-Feb-10,4
+772,ODI # 2962,200,226,147,25,3,136.05,2,not out,1,-1,-,-,-,-,-,2,0,2,ODI v South Africa,Gwalior,24-Feb-10,200
+773,Test # 1964,8,29,21,1,0,38.09,4,lbw,2,-1,-,-,-,-,-,1,1,1,Test v Sri Lanka,Galle,18-Jul-10,8
+774,Test # 1964,84,168,142,11,1,59.15,4,lbw,3,-1,-,-,-,-,-,4,0,4,Test v Sri Lanka,Galle,18-Jul-10,84
+775,Test # 1966,203,516,347,23,1,58.5,4,caught,2,-1,-,-,-,-,-,1,0,1,Test v Sri Lanka,Colombo (SSC),26-Jul-10,203
+776,Test # 1966,-1,-,-,-,-,-,-,-,4,-1,-,-,-,-,-,3,0,3,Test v Sri Lanka,Colombo (SSC),26-Jul-10,-1
+777,Test # 1968,41,88,72,5,0,56.94,4,caught,2,-1,-,-,-,-,-,1,0,1,Test v Sri Lanka,Colombo (PSS),03-Aug-10,41
+778,Test # 1968,54,186,122,3,0,44.26,4,caught,4,-1,-,-,-,-,-,3,1,3,Test v Sri Lanka,Colombo (PSS),03-Aug-10,54
+779,Test # 1972,98,251,189,13,0,51.85,5,lbw,2,-1,-,-,-,-,-,1,0,1,Test v Australia,Mohali,01-Oct-10,98
+780,Test # 1972,38,106,64,5,0,59.37,4,caught,4,-1,-,-,-,-,-,3,0,3,Test v Australia,Mohali,01-Oct-10,38
+781,Test # 1973,214,547,363,22,2,58.95,4,bowled,2,-1,-,-,-,-,-,1,0,1,Test v Australia,Bengaluru,09-Oct-10,214
+782,Test # 1973,53,125,77,5,2,68.83,4,not out,4,-1,-,-,-,-,-,3,0,3,Test v Australia,Bengaluru,09-Oct-10,53
+783,Test # 1974,40,168,133,5,0,30.07,4,caught,1,2,0,16,0,8,7,2,0,2,Test v New Zealand,Ahmedabad,04-Nov-10,40
+784,Test # 1974,12,27,25,2,0,48,4,bowled,3,-1,-,-,-,-,-,4,0,4,Test v New Zealand,Ahmedabad,04-Nov-10,12
+785,Test # 1975,13,52,28,1,0,46.42,4,caught,2,-1,-,-,-,-,-,1,0,1,Test v New Zealand,Hyderabad,12-Nov-10,13
+786,Test # 1975,-1,-,-,-,-,-,-,-,4,2,0,7,0,3.5,5,3,0,3,Test v New Zealand,Hyderabad,12-Nov-10,-1
+787,Test # 1978,61,162,129,8,0,47.28,4,caught,2,-1,-,-,-,-,-,1,0,1,Test v New Zealand,Nagpur,20-Nov-10,61
+788,Test # 1978,-1,-,-,-,-,-,-,-,4,-1,-,-,-,-,-,3,0,3,Test v New Zealand,Nagpur,20-Nov-10,-1
+789,Test # 1985,36,61,34,8,0,105.88,4,lbw,1,10,1,51,0,5.1,6,2,0,2,Test v South Africa,Centurion,16-Dec-10,36
+790,Test # 1985,111,327,241,13,1,46.05,5,not out,3,-1,-,-,-,-,-,4,0,4,Test v South Africa,Centurion,16-Dec-10,111
+791,Test # 1987,13,42,22,3,0,59.09,4,caught,1,-1,-,-,-,-,-,2,0,2,Test v South Africa,Durban,26-Dec-10,13
+792,Test # 1987,6,22,10,1,0,60,4,caught,3,1,0,6,0,6,5,4,0,4,Test v South Africa,Durban,26-Dec-10,6
+793,Test # 1988,146,465,314,17,2,46.49,4,bowled,2,-1,-,-,-,-,-,1,0,1,Test v South Africa,Cape Town,02-Jan-11,146
+794,Test # 1988,14,146,91,0,0,15.38,4,not out,4,2,0,9,1,4.5,5,3,0,3,Test v South Africa,Cape Town,02-Jan-11,14
+795,ODI # 3079,7,16,11,0,0,63.63,2,caught,2,-1,-,-,-,-,-,1,0,1,ODI v South Africa,Durban,12-Jan-11,7
+796,ODI # 3080,24,78,44,2,0,54.54,2,bowled,1,-1,-,-,-,-,-,2,0,2,ODI v South Africa,Johannesburg,15-Jan-11,24
+797,ODI # 3100,28,46,29,4,0,96.55,2,run out,1,-1,-,-,-,-,-,2,0,2,ODI v Bangladesh,Mirpur,19-Feb-11,28
+798,ODI # 3110,120,170,115,10,5,104.34,2,caught,1,-1,-,-,-,-,-,2,0,2,ODI v England,Bengaluru,27-Feb-11,120
+799,ODI # 3121,38,91,56,4,0,67.85,2,lbw,2,-1,-,-,-,-,-,1,0,1,ODI v Ireland,Bengaluru,06-Mar-11,38
+800,ODI # 3124,27,45,22,6,0,122.72,2,caught,2,-1,-,-,-,-,-,1,0,1,ODI v Netherlands,Delhi,09-Mar-11,27
+801,ODI # 3128,111,184,101,8,3,109.9,2,caught,1,-1,-,-,-,-,-,2,1,2,ODI v South Africa,Nagpur,12-Mar-11,111
+802,ODI # 3141,2,4,4,0,0,50,2,caught,1,-1,-,-,-,-,-,2,0,2,ODI v West Indies,Chennai,20-Mar-11,2
+803,ODI # 3143,53,93,68,7,0,77.94,2,caught,2,2,0,9,0,4.5,6,1,0,1,ODI v Australia,Ahmedabad,24-Mar-11,53
+804,ODI # 3147,85,160,115,11,0,73.91,2,caught,1,-1,-,-,-,-,-,2,1,2,ODI v Pakistan,Mohali,30-Mar-11,85
+805,ODI # 3148,18,21,14,2,0,128.57,2,caught,2,2,0,12,0,6,6,1,0,1,ODI v Sri Lanka,Wankhede,02-Apr-11,18
+806,Test # 2000,34,90,58,6,0,58.62,4,caught,2,-1,-,-,-,-,-,1,0,1,Test v England,Lord's,21-Jul-11,34
+807,Test # 2000,12,84,68,1,0,17.64,5,lbw,4,-1,-,-,-,-,-,3,0,3,Test v England,Lord's,21-Jul-11,12
+808,Test # 2001,16,33,34,3,0,47.05,4,caught,2,-1,-,-,-,-,-,1,1,1,Test v England,Nottingham,29-Jul-11,16
+809,Test # 2001,56,136,86,8,0,65.11,4,lbw,4,-1,-,-,-,-,-,3,0,3,Test v England,Nottingham,29-Jul-11,56
+810,Test # 2003,1,10,8,0,0,12.5,4,caught,1,4,0,17,0,4.25,6,2,1,2,Test v England,Birmingham,10-Aug-11,1
+811,Test # 2003,40,92,60,8,0,66.66,4,run out,3,-1,-,-,-,-,-,4,0,4,Test v England,Birmingham,10-Aug-11,40
+812,Test # 2004,23,65,34,4,0,67.64,4,caught,2,2,0,11,0,5.5,6,1,0,1,Test v England,The Oval,18-Aug-11,23
+813,Test # 2004,91,235,172,11,0,52.9,4,lbw,3,-1,-,-,-,-,-,3,0,3,Test v England,The Oval,18-Aug-11,91
+814,Test # 2015,7,25,18,1,0,38.88,4,lbw,2,-1,-,-,-,-,-,1,0,1,Test v West Indies,Delhi,06-Nov-11,7
+815,Test # 2015,76,200,148,10,0,51.35,4,lbw,4,-1,-,-,-,-,-,3,0,3,Test v West Indies,Delhi,06-Nov-11,76
+816,Test # 2017,38,74,71,5,0,53.52,4,caught,1,-1,-,-,-,-,-,2,0,2,Test v West Indies,Eden Gardens,14-Nov-11,38
+817,Test # 2017,-1,-,-,-,-,-,-,-,3,-1,-,-,-,-,-,3,0,3,Test v West Indies,Eden Gardens,14-Nov-11,-1
+818,Test # 2019,94,219,153,8,2,61.43,4,caught,2,6,0,24,0,4,7,1,0,1,Test v West Indies,Wankhede,22-Nov-11,94
+819,Test # 2019,3,6,7,0,0,42.85,4,caught,4,1,0,5,0,5,6,3,2,3,Test v West Indies,Wankhede,22-Nov-11,3
+820,Test # 2025,73,151,98,8,1,74.48,4,bowled,2,-1,-,-,-,-,-,1,0,1,Test v Australia,Melbourne,26-Dec-11,73
+821,Test # 2025,32,73,46,4,0,69.56,4,caught,4,-1,-,-,-,-,-,3,0,3,Test v Australia,Melbourne,26-Dec-11,32
+822,Test # 2027,41,133,89,8,0,46.06,4,bowled,1,-1,-,-,-,-,-,2,2,2,Test v Australia,Sydney,03-Jan-12,41
+823,Test # 2027,80,213,141,9,0,56.73,4,caught,3,-1,-,-,-,-,-,4,0,4,Test v Australia,Sydney,03-Jan-12,80
+824,Test # 2029,15,46,25,3,0,60,4,lbw,1,-1,-,-,-,-,-,2,0,2,Test v Australia,W.A.C.A,13-Jan-12,15
+825,Test # 2029,8,22,16,1,0,50,4,lbw,3,-1,-,-,-,-,-,4,0,4,Test v Australia,W.A.C.A,13-Jan-12,8
+826,Test # 2031,25,94,69,3,0,36.23,4,caught,2,-1,-,-,-,-,-,1,1,1,Test v Australia,Adelaide,24-Jan-12,25
+827,Test # 2031,13,46,34,2,0,38.23,4,caught,4,-1,-,-,-,-,-,3,0,3,Test v Australia,Adelaide,24-Jan-12,13
+828,ODI # 3231,2,9,6,0,0,33.33,2,caught,2,-1,-,-,-,-,-,1,0,1,ODI v Australia,Melbourne,05-Feb-12,2
+829,ODI # 3233,48,87,63,5,0,76.19,2,bowled,2,-1,-,-,-,-,-,1,1,1,ODI v Sri Lanka,W.A.C.A,08-Feb-12,48
+830,ODI # 3239,15,25,24,2,0,62.5,2,caught,2,-1,-,-,-,-,-,1,0,1,ODI v Sri Lanka,Adelaide,14-Feb-12,15
+831,ODI # 3244,3,21,12,0,0,25,2,caught,2,-1,-,-,-,-,-,1,1,1,ODI v Australia,Brisbane,19-Feb-12,3
+832,ODI # 3246,22,33,23,3,0,95.65,2,bowled,2,-1,-,-,-,-,-,1,1,1,ODI v Sri Lanka,Brisbane,21-Feb-12,22
+833,ODI # 3250,14,34,15,2,0,93.33,2,run out,2,-1,-,-,-,-,-,1,0,1,ODI v Australia,Sydney,26-Feb-12,14
+834,ODI # 3251,39,45,30,5,0,130,2,lbw,2,-1,-,-,-,-,-,1,0,1,ODI v Sri Lanka,Hobart,28-Feb-12,39
+835,ODI # 3259,6,25,19,1,0,31.57,2,caught,1,-1,-,-,-,-,-,2,1,2,ODI v Sri Lanka,Mirpur,13-Mar-12,6
+836,ODI # 3261,114,205,147,12,1,77.55,2,caught,1,-1,-,-,-,-,-,2,0,2,ODI v Bangladesh,Mirpur,16-Mar-12,114
+837,ODI # 3263,52,93,48,5,1,108.33,2,caught,2,1.4,0,12,0,7.2,8,1,0,1,ODI v Pakistan,Mirpur,18-Mar-12,52
+838,Test # 2054,19,86,62,2,0,30.64,4,bowled,1,1,0,6,0,6,7,2,0,2,Test v New Zealand,Hyderabad,23-Aug-12,19
+839,Test # 2054,-1,-,-,-,-,-,-,-,3,-1,-,-,-,-,-,3,0,3,Test v New Zealand,Hyderabad,23-Aug-12,-1
+840,Test # 2055,17,61,50,3,0,34,4,bowled,2,-1,-,-,-,-,-,1,0,1,Test v New Zealand,Bengaluru,31-Aug-12,17
+841,Test # 2055,27,78,34,5,0,79.41,4,bowled,4,-1,-,-,-,-,-,3,0,3,Test v New Zealand,Bengaluru,31-Aug-12,27
+842,Test # 2058,13,25,18,2,0,72.22,4,caught,1,-1,-,-,-,-,-,2,1,2,Test v England,Ahmedabad,15-Nov-12,13
+843,Test # 2058,-1,-,-,-,-,-,-,-,4,1,0,8,0,8,6,3,0,3,Test v England,Ahmedabad,15-Nov-12,-1
+844,Test # 2062,8,14,12,1,0,66.66,4,bowled,1,-1,-,-,-,-,-,2,0,2,Test v England,Wankhede,23-Nov-12,8
+845,Test # 2062,8,28,19,2,0,42.1,4,lbw,3,-1,-,-,-,-,-,4,0,4,Test v England,Wankhede,23-Nov-12,8
+846,Test # 2065,76,202,155,13,0,49.03,4,caught,1,-1,-,-,-,-,-,2,0,2,Test v England,Eden Gardens,05-Dec-12,76
+847,Test # 2065,5,17,6,1,0,83.33,4,caught,3,-1,-,-,-,-,-,4,0,4,Test v England,Eden Gardens,05-Dec-12,5
+848,Test # 2066,2,25,13,0,0,15.38,4,bowled,2,-1,-,-,-,-,-,1,0,1,Test v England,Nagpur,13-Dec-12,2
+849,Test # 2066,-1,-,-,-,-,-,-,-,4,-1,-,-,-,-,-,3,0,3,Test v England,Nagpur,13-Dec-12,-1
+850,Test # 2074,81,257,159,7,0,50.94,4,bowled,2,-1,-,-,-,-,-,1,0,1,Test v Australia,Chennai,22-Feb-13,81
+851,Test # 2074,13,10,10,0,2,130,4,not out,4,-1,-,-,-,-,-,3,1,3,Test v Australia,Chennai,22-Feb-13,13
+852,Test # 2076,7,32,15,1,0,46.66,4,caught,2,-1,-,-,-,-,-,1,0,1,Test v Australia,Hyderabad,02-Mar-13,7
+853,Test # 2076,-1,-,-,-,-,-,-,-,4,-1,-,-,-,-,-,3,0,3,Test v Australia,Hyderabad,02-Mar-13,-1
+854,Test # 2081,37,125,81,5,0,45.67,4,caught,2,-1,-,-,-,-,-,1,0,1,Test v Australia,Mohali,14-Mar-13,37
+855,Test # 2081,21,71,23,2,0,91.3,4,run out,4,2,0,2,0,1,6,3,0,3,Test v Australia,Mohali,14-Mar-13,21
+856,Test # 2085,32,99,53,5,0,60.37,4,lbw,2,-1,-,-,-,-,-,1,0,1,Test v Australia,Delhi,22-Mar-13,32
+857,Test # 2085,1,8,5,0,0,20,4,lbw,4,-1,-,-,-,-,-,3,0,3,Test v Australia,Delhi,22-Mar-13,1
+858,Test # 2101,10,41,24,2,0,41.66,4,lbw,2,2,1,5,1,2.5,5,1,0,1,Test v West Indies,Eden Gardens,06-Nov-13,10
+859,Test # 2101,-1,-,-,-,-,-,-,-,4,3,0,18,0,6,5,3,0,3,Test v West Indies,Eden Gardens,06-Nov-13,-1
+860,Test # 2102,74,150,118,12,0,62.71,4,caught,2,-1,-,-,-,-,-,1,0,1,Test v West Indies,Wankhede,14-Nov-13,74
+861,Test # 2102,-1,-,-,-,-,-,-,-,4,2,0,8,0,4,5,3,0,3,Test v West Indies,Wankhede,14-Nov-13,-1
